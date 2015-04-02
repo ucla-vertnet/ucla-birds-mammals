@@ -1,0 +1,235 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1066
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 49
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 5
+	Date: 2015-03-03 ; Times: 3
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 3
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 10
+	Date: 2015-03-11 ; Times: 6
+	Date: 2015-03-12 ; Times: 7
+	Date: 2015-03-13 ; Times: 6
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 5
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 6
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 3
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 4
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphidura" ; Times: 1
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "dactylortyx thoracicus tamaulipas" ; Times: 1
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "vulpes velox" ; Times: 1
+	Query: "Sayornis saya type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "year >= 1839 year <= 1839" ; Times: 1
+	Query: ""channel islands" picidae type:specimen" ; Times: 1
+	Query: "Pulsatrix" ; Times: 1
+	Query: "specificepithet:gymnonotus genus:Pteronotus" ; Times: 1
+	Query: "mustela nigripes" ; Times: 3
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "Agapornis weight" ; Times: 3
+	Query: "Myotis californicus stateprovince:"Nevada"" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "institutioncode:ucla" ; Times: 2
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 1
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "institutioncode:UCLA" ; Times: 1
+	Query: "onychomys torridus ramona" ; Times: 1
+	Query: "florence arizona" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "class:mammalia institutioncode:ucla" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "odontophorus melanotis" ; Times: 2
+	Query: "Nonnula institutioncode:UCLA" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 4
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "country:"Brazil" institutioncode:UCLA" ; Times: 2
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "colinus dickeyi" ; Times: 1
+	Query: "Monasa institutioncode:UCLA" ; Times: 2
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "yapacana" ; Times: 1
+	Query: "Antrozous pallidus county:"clark"" ; Times: 1
+	Query: "calidris type:specimen institutioncode:UCLA" ; Times: 1
+	Query: "colinus oaxaca" ; Times: 2
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Molothrus oryzivora" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "country:"El Salvador" specificepithet:ciris genus:Passerina" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "10-7-1853" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Minnesota"" ; Times: 1
+	Query: "Abrocoma" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen county:"San Diego" stateprovince:"California"" ; Times: 1
+	Query: "trogon tenellus" ; Times: 1
+	Query: "scrippsi" ; Times: 2
+	Query: "stateprovince:"alaska" class:mammalia institutioncode:ucla" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "Trogon rufus" ; Times: 2
+	Query: "Odontophorus melanotis" ; Times: 2
+	Query: "San Francisquito Baja California Sur" ; Times: 1
+	Query: "Boylii Santa Cruz Co" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 298 download events in this period)
+Total number of records downloaded: 12403 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11646
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: Cyprus ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 1
+	Date: 2015-03-04 ; Times: 2
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 4
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 8
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-19 ; Times: 4
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 6
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 5
+	Date: 2015-03-27 ; Times: 3
+	Date: 2015-03-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "blarina stateprovince:"Kansas"" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "Stachyris ruficeps" ; Times: 1
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "Myotis melanorhinus nevada" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "stateprovince:"Montana" country:"United States" mappable:1" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "type:specimen specificepithet:ruficaudus genus:Tamias" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "genus:Alticola" ; Times: 1
+	Query: "Wyoming Cervus elaphus" ; Times: 1
+	Query: "canidae (weight OR mass)" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "stateprovince:"california sur" country:"mexico" year >= 1921 year <= 1922" ; Times: 2
+	Query: "Molothrus ater obscurus county:"San Diego"" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "guiraca caerulea" ; Times: 1
+	Query: "Plecotus townsendii pallescens" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San Diego" mappable:1" ; Times: 2
+	Query: "Thomomys bottae" ; Times: 2
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Molothrus ater obscurus county:"San diego" stateprovince:"California" mappable:1" ; Times: 1
+	Query: "Colima mammals" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Mammalia ochotona princeps" ; Times: 1
+	Query: ""coccyzus americanus occidentalis" stateprovince:"california"" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "chiroptera country:"Brazil"" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "mammalia country:"mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 96
+Total number of records retrieved from searches: 1324
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 12430
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 96
+Total number of records retrieved from searches: 1324
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 12430
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
