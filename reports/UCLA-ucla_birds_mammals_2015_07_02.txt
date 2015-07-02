@@ -1,0 +1,371 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 246
+Number of records retrieved in searches: 1885
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 19
+	Country: Germany ; Times: 7
+	Country: Mexico ; Times: 33
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 180
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 5
+	Date: 2015-06-02 ; Times: 3
+	Date: 2015-06-03 ; Times: 9
+	Date: 2015-06-04 ; Times: 5
+	Date: 2015-06-05 ; Times: 8
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 8
+	Date: 2015-06-08 ; Times: 9
+	Date: 2015-06-09 ; Times: 12
+	Date: 2015-06-10 ; Times: 12
+	Date: 2015-06-11 ; Times: 7
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-14 ; Times: 16
+	Date: 2015-06-15 ; Times: 22
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 16
+	Date: 2015-06-18 ; Times: 4
+	Date: 2015-06-19 ; Times: 10
+	Date: 2015-06-20 ; Times: 6
+	Date: 2015-06-21 ; Times: 5
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-23 ; Times: 2
+	Date: 2015-06-24 ; Times: 9
+	Date: 2015-06-25 ; Times: 23
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-27 ; Times: 10
+	Date: 2015-06-28 ; Times: 4
+	Date: 2015-06-29 ; Times: 25
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: ""Eurypyga helias" type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:diadema genus:Catamblyrhynchus class:aves" ; Times: 1
+	Query: "Cardinalis cardinalis alamos Sonora Mexico" ; Times: 1
+	Query: "Toxostoma curvirostre sonora" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "Perognathus inornatus" ; Times: 2
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Cardinalis cardinalis Sonora Mexico" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Pachyramphus aglaiae SONORA" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 4
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "Amphispiza belli sonora Mexico" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "Vidua macroura" ; Times: 1
+	Query: "Icterus parisorum Sonora" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "spermophilus idaho fremont" ; Times: 2
+	Query: "Toxostoma curvirostre Sonora Mexico" ; Times: 1
+	Query: "Lasionycteris noctivagans California mappable:1" ; Times: 1
+	Query: "vireo bellii pusillus" ; Times: 2
+	Query: "Zenaida graysoni" ; Times: 36
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "perognathus formosus California mappable:1" ; Times: 2
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "stateprovince:"Alaska" country:"United States" class:Aves year >= 1500 year <= 2015 hastypestatus:1 distance(location,geopoint(51.147446544106955,-175.52135467529297))<534677.0749926821" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Bubo virginianus type:specimen country:"El Salvador"" ; Times: 1
+	Query: "ficedula xanthopygia" ; Times: 1
+	Query: "carduelis hesperophilus alamos sonora Mexico" ; Times: 1
+	Query: "Sialia currucoides sonora Mexico" ; Times: 1
+	Query: "dendroica occidentalis chihuahua" ; Times: 1
+	Query: "Otus asio Sonora" ; Times: 1
+	Query: "dendrocincla anabatina" ; Times: 1
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "strix mexico AND (occidentalis)" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "Cyanocorax hastypestatus:1" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "Sula leucogaster brewsteri" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "aves Georgia United States Guiraca caerulea" ; Times: 1
+	Query: "jacksonii stateprovince:"California"" ; Times: 4
+	Query: "30684" ; Times: 1
+	Query: "Lepus californicus bennettii mappable:1" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "acrocephalus orientalis" ; Times: 1
+	Query: "aves Georgia United States Aimophila aestivalis" ; Times: 2
+	Query: "amazilia cyanura" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: "aves Georgia United States Dendroica pinus" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Turdus infuscatus type:specimen" ; Times: 1
+	Query: "Passerculus yellowstone" ; Times: 1
+	Query: "Oxypogon lindenii" ; Times: 1
+	Query: "Cynanthus latirostris sonora" ; Times: 1
+	Query: "trogon caligatus" ; Times: 1
+	Query: "trogon citreolus" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Piculus simplex type:specimen" ; Times: 1
+	Query: "saltriparus minimus" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "12243" ; Times: 1
+	Query: "chalybura urochrysia mexico" ; Times: 1
+	Query: "Asyndesmus lewis Mexico" ; Times: 1
+	Query: "spermophilus tereticaudus apricus" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: ""dipodomys merriami parvus" "dipodomys merriami parvus" year <= 2015" ; Times: 3
+	Query: "Parula Sonora Mexico" ; Times: 1
+	Query: "37860 class:aves" ; Times: 2
+	Query: "Arremonops rufivirgatus Coahuila Mexico" ; Times: 1
+	Query: "specificepithet:humboldtii genus:Conepatus" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "Tiburon Island" ; Times: 1
+	Query: "CAtamblyrhynchus" ; Times: 1
+	Query: "florisuga" ; Times: 1
+	Query: "Onychorhynchus mexicanus" ; Times: 2
+	Query: "tachycineta albilinea type:specimen" ; Times: 3
+	Query: "Klais guimeti" ; Times: 1
+	Query: "chordeiles minor chihuahua" ; Times: 1
+	Query: "Dactylortyx thoracicus thoracicus" ; Times: 3
+	Query: "Amphispiza alamos sonora Mexico" ; Times: 1
+	Query: "pulsatrix" ; Times: 24
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "aves Georgia United States Zonotrichia albicollis" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "Chondrohierax" ; Times: 2
+	Query: "Sula leucogaster brewsteri ucla" ; Times: 1
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 1
+	Query: "Lampornis sybillae" ; Times: 1
+	Query: "terpsiphone paradisi" ; Times: 1
+	Query: "Falco sparverius nicaraguensis type:specimen" ; Times: 1
+	Query: "Picoides villosus chihuahua" ; Times: 1
+	Query: ""asio flammeus" county:"alameda"" ; Times: 1
+	Query: "empidonax traillii sonora Mexico" ; Times: 1
+	Query: "Aphelocoma ultramarina SONORA" ; Times: 1
+	Query: "Passerculus sandwichensis sonora Mexico" ; Times: 1
+	Query: "zapus hudsonicus" ; Times: 2
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "Callipepla californica catalina" ; Times: 1
+	Query: "florisuga mellivora" ; Times: 1
+	Query: "Moho nobilis" ; Times: 1
+	Query: "eremophila alpestris strigata" ; Times: 3
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "24814 mammal" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "pseudoscops" ; Times: 1
+	Query: "aves Tiburon Island" ; Times: 2
+	Query: "Cistothorus palustris Sonora Mexico" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "12956" ; Times: 2
+	Query: "50396 mammalia" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "Chlorostilbon assimilis" ; Times: 1
+	Query: "aves Georgia United States Passerina caerulea" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "felis country:"MEXICO" year <= 2015" ; Times: 1
+	Query: "asyndesmus lewis" ; Times: 1
+	Query: "Dactylortyx thoracicus" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Aphelocoma Sonora mexico" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "accipiter soloensis" ; Times: 2
+	Query: "tachycineta thalassina chihuahua" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "carduelis psaltria alamos sonora Mexico" ; Times: 1
+	Query: "Campylorhynchus turdinus brazil" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Jynx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 114 (out of 1524 download events in this period)
+Total number of records downloaded: 7491 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6214
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 30
+	Country: France ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 2
+	Date: 2015-06-04 ; Times: 2
+	Date: 2015-06-05 ; Times: 6
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 4
+	Date: 2015-06-09 ; Times: 20
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 5
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 12
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-27 ; Times: 3
+	Date: 2015-06-29 ; Times: 29
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aves type:specimen distance(location,geopoint(43.75522505306928,-74.55322265625))<58320" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:"Washington"" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "country:"Panama" ("Barro colorado" OR BCI) year >= 1904 year <= 1929" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: "Myotis yumanensis country:"Mexico"" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "Oxypogon lindenii" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "amazilia cyanocephala" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Zenaida graysoni" ; Times: 2
+	Query: "Selasphorus flammula" ; Times: 2
+	Query: "Lampornis sybillae" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Myotis californicus country:"mexico"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Eptesicus fuscus country:"Mexico"" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Washington"" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Chlorostilbon assimilis" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "La Grulla" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 529
+Total number of records retrieved from searches: 4615
+Number of download events that retrieved data from the resource: 285
+Total number of records downloaded: 69016
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 529
+Total number of records retrieved from searches: 4615
+Number of download events that retrieved data from the resource: 285
+Total number of records downloaded: 69016
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
