@@ -1,0 +1,350 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 1561
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 19
+	Country: Germany ; Times: 4
+	Country: Hungary ; Times: 8
+	Country: Mexico ; Times: 21
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: United States ; Times: 156
+	Country: Unknown ; Times: 4
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 6
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 15
+	Date: 2015-07-08 ; Times: 7
+	Date: 2015-07-09 ; Times: 18
+	Date: 2015-07-11 ; Times: 3
+	Date: 2015-07-12 ; Times: 4
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 13
+	Date: 2015-07-15 ; Times: 11
+	Date: 2015-07-16 ; Times: 17
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-18 ; Times: 9
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 18
+	Date: 2015-07-22 ; Times: 9
+	Date: 2015-07-23 ; Times: 5
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-25 ; Times: 2
+	Date: 2015-07-26 ; Times: 7
+	Date: 2015-07-27 ; Times: 14
+	Date: 2015-07-28 ; Times: 6
+	Date: 2015-07-29 ; Times: 13
+	Date: 2015-07-30 ; Times: 15
+	Date: 2015-07-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "Spizastur" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 3
+	Query: "27802" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:anabatina genus:dendrocincla" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(48.31973404047173,-117.9876708984375))<100000" ; Times: 1
+	Query: "CCA" ; Times: 1
+	Query: "buteo albonotatus" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 1
+	Query: "year:1193 class:mammalia" ; Times: 1
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "glaucomys sabrinus distance(location,geopoint(33.76088200086917,-116.993408203125))<100000" ; Times: 2
+	Query: "14470" ; Times: 2
+	Query: "ucla dickey collection odontophorus" ; Times: 1
+	Query: "ucla dickey collection odontophoridae" ; Times: 1
+	Query: "concolor arizona" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1909" ; Times: 1
+	Query: "spermophilus tereticaudus distance(location,geopoint(31.20810332132528,-115.19989013671875))<100000" ; Times: 1
+	Query: "cypseloides niger costaricensis" ; Times: 1
+	Query: "ucla dickey collection institutioncode:ucla" ; Times: 1
+	Query: "country:"Mexico" specificepithet:californicus genus:Microtus" ; Times: 2
+	Query: "thomomys umbrinus weight mexico" ; Times: 1
+	Query: "sorex wisconsin" ; Times: 2
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNMH NOT CUMV)" ; Times: 1
+	Query: "texensis weight" ; Times: 1
+	Query: "microtus californicus mexico" ; Times: 7
+	Query: ""lasiurus borealis" country:"Mexico"" ; Times: 1
+	Query: "reithrodontomys megalotis utah" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH)" ; Times: 1
+	Query: "glaucomys sabrinus distance(location,geopoint(34.30714385628804,-119.619140625))<326226" ; Times: 1
+	Query: "ucla dickey collection crax" ; Times: 1
+	Query: "reithrodontomys Utah" ; Times: 3
+	Query: "33125" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 1
+	Query: "lagurus curtatus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "Antilocapra (Weight)" ; Times: 1
+	Query: "specificepithet:richmondi genus:Sciurus" ; Times: 4
+	Query: "aves navajoa sonora" ; Times: 1
+	Query: "Rheomys" ; Times: 2
+	Query: "microtus californicus country:"mexico"" ; Times: 1
+	Query: "aves Georgia United States Elanoides forficatus" ; Times: 1
+	Query: ""Sciurus griseus" distance(location,geopoint(33.708347493688414,-117.52212524414062))<41248" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 1
+	Query: "aves Georgia United States Asio otus" ; Times: 1
+	Query: "peromyscus boylii utah" ; Times: 1
+	Query: ""glaucomys sabrinus" distance(location,geopoint(34.243594729697406,-117.1197509765625))<100000" ; Times: 6
+	Query: "Abditus" ; Times: 1
+	Query: "rheomys" ; Times: 1
+	Query: "Conuropsis carolinensis amnh" ; Times: 1
+	Query: "ucla dickey collection institutioncode:ucla (skeleton)" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 4
+	Query: "14299" ; Times: 4
+	Query: "Spermophilus mohavensis mappable:1" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "Sphyrapicus varius sonora" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus distance(location,geopoint(38.3502725382577,-119.388427734375))<79988" ; Times: 1
+	Query: "reithrodontomys utah" ; Times: 5
+	Query: "glaucomys sabrinus distance(location,geopoint(34.30714385628804,-119.619140625))<194949" ; Times: 1
+	Query: "spermophilus tereticaudus distance(location,geopoint(31.168159735435708,-115.31936645507812))<100000" ; Times: 1
+	Query: "isla Asuncion" ; Times: 1
+	Query: "phoca vitulina UCLA" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "LACMNH type:specimen (skeleton)" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "Brachyramphus marmoratus stateprovince:"California"" ; Times: 3
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDMNH NOT CUMV)" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 1
+	Query: "Streptoprocne" ; Times: 2
+	Query: "tylomys alcohol type:specimen" ; Times: 1
+	Query: "Perognathus fallax" ; Times: 2
+	Query: "aves solitarius sonora" ; Times: 1
+	Query: "ucla dickey collection penelope" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "lost lake san bernardino county" ; Times: 1
+	Query: "antilocapra (weight)" ; Times: 5
+	Query: "Geomys arenarius arenarius weight" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Nicaragua"" ; Times: 1
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 2
+	Query: "mephitis stateprovince:"illinois" mappable:1" ; Times: 1
+	Query: "Moho nobilis" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "antilocapridae (weight OR mass)" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "bursarius weight" ; Times: 2
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "odocoileus (weight)" ; Times: 2
+	Query: "vulcanius weight" ; Times: 2
+	Query: "colibri thalassinus" ; Times: 10
+	Query: "stateprovince:"Utah" specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "pulsatrix" ; Times: 6
+	Query: "lepus americanus mappable:1 distance(location,geopoint(50.085344397538876,-119.1192626953125))<100000" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 1
+	Query: "Microtus californicus stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "pulsatrix perspicillata" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 6
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM)" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "ucla dickey collection" ; Times: 1
+	Query: "sporophila torqueola mutanda" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 1
+	Query: "ucla dickey collection anhinga" ; Times: 1
+	Query: "Cypseloides cryptus" ; Times: 3
+	Query: "catalognumber:500" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 2
+	Query: "sterna dougallii" ; Times: 4
+	Query: "specificepithet:burti genus:Reithrodontomys" ; Times: 4
+	Query: "Ploceus cucullatus" ; Times: 1
+	Query: ""Sciurus griseus" distance(location,geopoint(33.369531277912934,-116.90139770507812))<22813.82530525165" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "36223 Aves" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH)" ; Times: 1
+	Query: "year:1196" ; Times: 1
+	Query: "year:1193" ; Times: 1
+	Query: "county:"Gila" stateprovince:"Arizona" specificepithet:stelleri genus:Cyanocitta" ; Times: 1
+	Query: "Buteo jamaicensis kemsiesi" ; Times: 1
+	Query: "Lepus townsendii (Weight)" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 4
+	Query: "Cypseloides" ; Times: 2
+	Query: "5280" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM)" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "class:Aves catalognumber:31063 OR 31064 institutioncode:UCLA" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Microtus californicus Mexico" ; Times: 4
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "specificepithet:phenax genus:Neotoma" ; Times: 3
+	Query: "Vermivora ruficapilla Sonora" ; Times: 1
+	Query: "bottae weight arizona" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 2
+	Query: "spermophilus tereticaudus distance(location,geopoint(31.22689446881399,-115.30975341796875))<100000" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "genus:Coendou" ; Times: 1
+	Query: "slevini stateprovince:"Sur"" ; Times: 1
+	Query: "mustela rixosa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1084 download events in this period)
+Total number of records downloaded: 19254 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 14305
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 47
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 3
+	Date: 2015-07-02 ; Times: 10
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 7
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 5
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-24 ; Times: 9
+	Date: 2015-07-25 ; Times: 1
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 4
+	Date: 2015-07-28 ; Times: 15
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 2
+	Date: 2015-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "myotis lucifugus country:"United States"" ; Times: 1
+	Query: ""macrotus californicus" country:"Mexico"" ; Times: 1
+	Query: ""balantiopteryx plicata" country:"Mexico"" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Nicaragua"" ; Times: 1
+	Query: ""myotis californicus" country:"mexico"" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: ""pipistrellus hesperus" country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "country:"mexico" specificepithet:mexicana genus:Choeronycteris" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 1
+	Query: "glaucomys sabrinus distance(location,geopoint(33.76088200086917,-116.993408203125))<100000" ; Times: 2
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "phoca vitulina richardii" ; Times: 1
+	Query: ""Pteronotus parnellii" country:"mexico"" ; Times: 1
+	Query: "rheomys" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "country:"mexico" specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: ""Choeronycteris mexicana" country:"Mexico"" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: ""mormoops megalophylla" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua mappable:1" ; Times: 1
+	Query: "Oryzomys couesi" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: ""myotis velifer" country:"Mexico"" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Encantada country:"Mexico"" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: ""Antrozous pallidus" country:"Mexico"" ; Times: 1
+	Query: ""lasiurus borealis" country:"Mexico"" ; Times: 1
+	Query: "Microtus californicus stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Vermivora ruficapilla Sonora" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: ""tadarida brasiliensis" country:"Mexico"" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: ""sylvilagus brasiliensis"" ; Times: 1
+	Query: ""eptesicus fuscus" country:"Mexico"" ; Times: 5
+	Query: "Streptoprocne" ; Times: 1
+	Query: "("myodes gapperi" OR "clethrionomys gapperi") mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: ""plecotus townsendii" country:"Mexico"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: ""Glossophaga soricina" country:"Mexico"" ; Times: 2
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 2
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "lagurus curtatus" ; Times: 2
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "country:"Mexico" specificepithet:mexicana genus:Cryptotis" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 764
+Total number of records retrieved from searches: 6176
+Number of download events that retrieved data from the resource: 381
+Total number of records downloaded: 88270
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 764
+Total number of records retrieved from searches: 6176
+Number of download events that retrieved data from the resource: 381
+Total number of records downloaded: 88270
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
