@@ -1,0 +1,280 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1030
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 6
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 108
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-15 ; Times: 8
+	Date: 2015-10-12 ; Times: 6
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 3
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 3
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 5
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 4
+	Date: 2015-10-23 ; Times: 7
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 35
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 4
+	Date: 2015-10-01 ; Times: 9
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 11
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "27542 mammal" ; Times: 1
+	Query: "Micrastur (skel OR skeleton)" ; Times: 1
+	Query: "Mustela vison stateprovince:&#34;California&#34; distance(location,geopoint(38.1331163454489,-118.2183837890625))&lt;135471" ; Times: 1
+	Query: "skeleton specificepithet:harrisi family:Phalacrocoracidae" ; Times: 1
+	Query: "Sittasomus griseicapillus gracileus type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;MO&#34;" ; Times: 1
+	Query: "Onychomys torridus tularensis (Kern)" ; Times: 2
+	Query: "Selasphorus rufus type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "sitta pusilla caniceps" ; Times: 1
+	Query: "atlapetes gutturalis" ; Times: 1
+	Query: "continentalis" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "caracara (skel OR skeleton) sex:female" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus stateprovince:&#34;colorado&#34; OR &#34;California&#34;" ; Times: 1
+	Query: "Odocoileus virginianus and california" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "Zenaida macroura clarionensis" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "mammal country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 1
+	Query: "Cryptotis peregrina" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; country:&#34;United States&#34; year &gt;= 1910 year &lt;= 1925" ; Times: 1
+	Query: "Microtus californicus mohavensis" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 1
+	Query: "Glaucomys sabrinus distance(location,geopoint(34.22088697429015,-116.97418212890625))&lt;21123" ; Times: 1
+	Query: "ortalis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Perognathus longimembris pacificus" ; Times: 1
+	Query: "procyon lotor type:specimen (skin) distance(location,geopoint(38.788345355085625,-121.728515625))&lt;100000" ; Times: 1
+	Query: "family:alcedinidae institutioncode:UCLA" ; Times: 1
+	Query: "Synthliboramphus scrippsi Channel" ; Times: 1
+	Query: "lincoln county washington rodentia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "canis latrans los angeles" ; Times: 1
+	Query: "tapera (skel OR skeleton) sex:female" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "calocitta formosa" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "Peromyscus truei distance(location,geopoint(32.76880048488168,-116.67755126953125))&lt;100000" ; Times: 3
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "mammal country:&#34;israel&#34;" ; Times: 28
+	Query: "26998" ; Times: 1
+	Query: "Onychomys torridus pulcher (Kern)" ; Times: 1
+	Query: "(Dendragapus obscurus) institutioncode:UCLA" ; Times: 2
+	Query: "class:aves locality:kodiak stateprovince:&#34;alaska&#34; year &lt;= 1924 month &lt;= 1930" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "witch" ; Times: 9
+	Query: "Chloroceryle sex:female (skel OR skeleton)" ; Times: 1
+	Query: "canis latrans county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepidocolaptes (skel OR skeleton)" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "ortalis (skel OR skeleton)" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "Rupicola (skel OR skeleton)" ; Times: 1
+	Query: "Mustela vison stateprovince:&#34;California&#34; distance(location,geopoint(38.1331163454489,-118.2183837890625))&lt;177961" ; Times: 1
+	Query: "pulsatrix" ; Times: 3
+	Query: "felis concolor" ; Times: 1
+	Query: "colinus costa rica" ; Times: 1
+	Query: "Sigmodon distance(location,geopoint(32.16166284018012,-114.99114990234375))&lt;30007" ; Times: 1
+	Query: "lynx canadensis stateprovince:&#34;British Columbia&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "homo sapiens" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 2
+	Query: "Thryothorus modestus vanrossemi type:specimen" ; Times: 1
+	Query: "canis latrans type:specimen county:&#34;Kern&#34; stateprovince:&#34;California&#34; (skin)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "order:Rodentia locality:carrizozo year &gt;= 1929 year &lt;= 1931" ; Times: 1
+	Query: "archilochus (skel OR skeleton)" ; Times: 1
+	Query: "Mustela vison stateprovince:&#34;California&#34; distance(location,geopoint(38.1331163454489,-118.2183837890625))&lt;100000" ; Times: 2
+	Query: "Cyrtonyx montezumae Chihuahua" ; Times: 2
+	Query: "odontophorus melanotis" ; Times: 4
+	Query: "10164" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Sciurus griseus distance(location,geopoint(34.19817309627726,-116.96182250976562))&lt;16560" ; Times: 1
+	Query: "tapera (skel OR skeleton)" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Peromyscus maniculatus assimilis" ; Times: 1
+	Query: "institutioncode:UCLA" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "turdus assimilis country:&#34;Honduras&#34;" ; Times: 2
+	Query: "aramides cajanea" ; Times: 2
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "Lampornis viridipallens nubivagus type:specimen" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "Baiomys taylori Sonora" ; Times: 1
+	Query: "specificepithet:kirtlandii stateprovince:&#34;michigan&#34; AND (NOT UMMZ) year &gt;= 1900 year &lt;= 1943" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "locality:carrizozo recordedby:benson" ; Times: 2
+	Query: "Langara Island" ; Times: 2
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "Onychomys torridus tularensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 823 download events in this period)
+Total number of records downloaded: 21746
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 57
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 3
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 6
+	Date: 2015-10-28 ; Times: 9
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 14
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "(ciccaba)" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Henicorhina leucophrys mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Ortalis wagleri" ; Times: 1
+	Query: "Amazona farinosa mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus assimilis" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "aves venezuela" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Ovis canadensis Baja California" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Campylorhynchus gularis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "athene cunicularia country:&#34;mexico&#34;" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "aeneus" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "felidae baja california" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
