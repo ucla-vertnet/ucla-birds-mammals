@@ -1,0 +1,484 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 342
+Number of records retrieved in searches: 7417
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 250
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 9
+	Country: Papua New Guinea ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-22 ; Times: 8
+	Date: 2015-09-10 ; Times: 6
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-14 ; Times: 10
+	Date: 2015-09-15 ; Times: 21
+	Date: 2015-09-16 ; Times: 27
+	Date: 2015-09-17 ; Times: 13
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 97
+	Date: 2015-09-29 ; Times: 10
+	Date: 2015-09-07 ; Times: 7
+	Date: 2015-09-05 ; Times: 17
+	Date: 2015-09-04 ; Times: 4
+	Date: 2015-09-03 ; Times: 7
+	Date: 2015-09-02 ; Times: 9
+	Date: 2015-09-01 ; Times: 14
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 39
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 13
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "type:specimen county:&#34;San Bernardino&#34; (microtus) year &gt;= 1910 year &lt;= 1960" ; Times: 1
+	Query: "Microtus Microtus californicus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;NC&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "tachyphonus axillaris" ; Times: 2
+	Query: "Pteronotus quadridens fuliginosus" ; Times: 3
+	Query: "distance(location,geopoint(27.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 3
+	Query: "distance(location,geopoint(28.8802369569,-113.149505705))&lt;10000" ; Times: 1
+	Query: "pachyramphus cinereiventris" ; Times: 2
+	Query: "Neotoma insularis" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 3
+	Query: "distance(location,geopoint(25.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "family:Tinamidae (egg)" ; Times: 1
+	Query: "Peromyscus pembertoni" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; specificepithet:norvegicus genus:rattus" ; Times: 2
+	Query: "Peromyscus sejugis" ; Times: 1
+	Query: "Myotis lucifugus (Montana ) institutioncode:UCLA" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "Taxidea taxus jeffersonii stateprovince:&#34;Washington&#34;" ; Times: 3
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(23.3802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 3
+	Query: "Vuples" ; Times: 1
+	Query: "Clamator (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "Aves Isla Socorro" ; Times: 1
+	Query: "Sciurus nayaritensis " ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;10000" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 2
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "Neotoma phenax" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "urocyon littoralis institutioncode:UCLA" ; Times: 3
+	Query: "celeus (skel OR skeleton)" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Agelaius phoeniceus type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 3
+	Query: "Oryzomys texensis" ; Times: 3
+	Query: "Microtus californicus mohavensis" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (cristatus)" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "spermophilus mohavensis" ; Times: 3
+	Query: "type:specimen institutioncode:UCLA" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;10000" ; Times: 1
+	Query: "ploceus nest" ; Times: 2
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 5
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.0802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 2
+	Query: "Myotis lucifugus (Montana)" ; Times: 1
+	Query: "Ovis canadensis Baja California" ; Times: 4
+	Query: "microtus californicus mohavensis" ; Times: 2
+	Query: "genus:icterus (melanopsis) AND (NOT film)" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "&#34;lynx canadensis&#34; genus:lynx (weight)" ; Times: 2
+	Query: "distance(location,geopoint(25.8802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Aratinga Isla Socorro" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "genus:tamandua mexicana" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(25.2802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "Peromyscus interparietalis" ; Times: 1
+	Query: "Notiosorex crawfordi" ; Times: 1
+	Query: "distance(location,geopoint(28.6802369569,-112.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.4802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "dendragapus obscurus type:specimen stateprovince:&#34;NM&#34; (dendragapus obscurus)" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-113.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.949505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "birds chihuahua" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "distance(location,geopoint(25.5802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "genus:felis country:&#34;Mexico&#34;" ; Times: 5
+	Query: "distance(location,geopoint(25.2802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "Peromyscus pseudocrinitus" ; Times: 1
+	Query: "Aratinga holochlora" ; Times: 7
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Myotis evotis" ; Times: 3
+	Query: "Burt stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1935" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "Cynomys ludovicianus arizona" ; Times: 1
+	Query: "distance(location,geopoint(29.0802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "Hylopezus" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-109.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-110.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "Colinus nigrogularis type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.8802369569,-110.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "Oryzomys peninsulae" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.4802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "distance(location,geopoint(24.5802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "genus:rangifer class:Mammalia year &gt;= 1920 year &lt;= 1922" ; Times: 1
+	Query: "Peromyscus ochraventer" ; Times: 1
+	Query: "vultur" ; Times: 5
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 4
+	Query: "distance(location,geopoint(27.2802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "sciurus richmondi" ; Times: 1
+	Query: "pulsatrix" ; Times: 2
+	Query: "distance(location,geopoint(28.6802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "Reithrodontomys burti" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 1
+	Query: "Mustela rixosa country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.3802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "distance(location,geopoint(22.9802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 2
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Oceanites oceanicus skel*" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.8802369569,-112.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 3
+	Query: "distance(location,geopoint(26.0802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "Neotoma albigula venusta" ; Times: 1
+	Query: "Oryzomys melanotis" ; Times: 1
+	Query: "Eumops perotis" ; Times: 3
+	Query: "Peromyscus dickeyi" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 2
+	Query: "dendragapus obscurus stateprovince:&#34;NM&#34;" ; Times: 2
+	Query: "Peromyscus caniceps" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 2
+	Query: "distance(location,geopoint(26.1802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.5802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "distance(location,geopoint(24.7802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 3
+	Query: "Colinus leucopogon type:specimen" ; Times: 1
+	Query: "Peromyscus stephani" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "neotoma albigula venusta" ; Times: 2
+	Query: "distance(location,geopoint(27.4802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "orcinus" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-110.549505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;15000" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "genus:icterus (melanopsis)" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Oryzomys alfaroi" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-112.149505705))&lt;15000" ; Times: 1
+	Query: "habia alfaroana" ; Times: 2
+	Query: "distance(location,geopoint(25.1802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:7616 institutioncode:UCLA" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Cryptotis merriami" ; Times: 1
+	Query: "distance(location,geopoint(24.4802369569,-110.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.4802369569,-109.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.2802369569,-111.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "Spermophilus tereticaudus chlorus" ; Times: 2
+	Query: "lutra canadensis" ; Times: 1
+	Query: "miradorensis specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Peromyscus guardia" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.3802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "lost lake san bernardino" ; Times: 1
+	Query: "distance(location,geopoint(29.5802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "distance(location,geopoint(24.6802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.649505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Peromyscus slevini" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "distance(location,geopoint(26.1802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.7802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "tayassu tajacu (mexico) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-111.049505705))&lt;15000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 179 (out of 1045 download events in this period)
+Total number of records downloaded: 34790
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 131
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-10 ; Times: 33
+	Date: 2015-09-11 ; Times: 6
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 5
+	Date: 2015-09-15 ; Times: 17
+	Date: 2015-09-16 ; Times: 32
+	Date: 2015-09-17 ; Times: 8
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 6
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 11
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "&#34;macrotus californicus&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Cyanocitta stelleri carlottae" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Spizella breweri" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Perognathus longimembris pacificus" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Ovis canadensis Baja California" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "birds chihuahua" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "old woman california chordata" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "specificepithet:californicus genus:microtus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:Agelaius stateprovince:&#34;New York&#34; sex:Male preparations:Skin year &lt;= 1960" ; Times: 1
+	Query: "dipodomys (coahuila)" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Tamias striatus" ; Times: 1
+	Query: "procyon lotor mexico" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Sorex San Luis Obispo" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Odocoileus virginianus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "PNG" ; Times: 2
+
+
+End of report.
