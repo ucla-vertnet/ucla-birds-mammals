@@ -1,0 +1,277 @@
+Report for Institution Code UCLA, Resource Mammals
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 2528
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Costa Rica ; Times: 12
+	Country: France ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 25
+	Country: Portugal ; Times: 3
+	Country: Russia ; Times: 7
+	Country: United States ; Times: 97
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 26
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-07 ; Times: 5
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-11 ; Times: 8
+	Date: 2016-01-12 ; Times: 5
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-18 ; Times: 26
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 9
+	Date: 2016-01-23 ; Times: 3
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 17
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-30 ; Times: 12
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "vireo huttoni type:specimen year >= 1900 year <= 1930 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Catharus hastypestatus:1" ; Times: 22
+	Query: "Agelaius phoeniceus grinnelli year >= 1912 year <= 1912" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-113.527516))<15000" ; Times: 1
+	Query: "UCLA-19180" ; Times: 1
+	Query: "pharomachrus type:specimen" ; Times: 2
+	Query: "UCLA mammals zalophus" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "ucla 406" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))<15000" ; Times: 1
+	Query: "syndactyla subalaris" ; Times: 1
+	Query: "Sayornis saya quiescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:leucocephalus genus:Haliaeetus stateprovince:"washington"" ; Times: 1
+	Query: "Dipodomys McKittrick California" ; Times: 1
+	Query: "Picoides scalaris eremicus" ; Times: 2
+	Query: "class:aves locality:craig stateprovince:"alaska" recordedby:willett year >= 1920 year <= 1920 month >= 1 month <= 5" ; Times: 1
+	Query: "birds (costa rica) year >= 1850 year <= 2015 institutioncode:UCLA" ; Times: 9
+	Query: "Microcavia" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year>=1916 year<=1920" ; Times: 1
+	Query: "ucla 666" ; Times: 1
+	Query: "oryzomys saturatior" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "type:specimen (Acanthidops)" ; Times: 1
+	Query: "Agelaius phoeniceus aciculatus year >= 1914 year <= 1914" ; Times: 1
+	Query: "ucla 296" ; Times: 2
+	Query: "skin genus: Eucometis sex:male" ; Times: 1
+	Query: "vireo huttoni type:specimen year >= 1919 year <= 1930 institutioncode:UCLA" ; Times: 1
+	Query: "Aimophila aestivalis institutioncode:UCLA" ; Times: 1
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "MCZ 19057" ; Times: 1
+	Query: "Dipodomys merriami collinus type:specimen mappable:1" ; Times: 1
+	Query: "UCLA mammals" ; Times: 1
+	Query: "mephitis mephitis los angeles" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 1
+	Query: "specificepithet:militaris genus:Ara stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "icterus pectoralis" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month >= 6 month <= 7" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "class:aves stateprovince:"alaska" recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year >= 1920 year <= 1920" ; Times: 1
+	Query: "UCLA 1118" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "specificepithet:militaris genus:Ara" ; Times: 1
+	Query: "Oceanodroma leucorhoa Benito" ; Times: 1
+	Query: "distance(location,geopoint(27.729036,-113.867516))<15000" ; Times: 1
+	Query: "skin genus:Acanthidops sex:male" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:gray year >= 1900 year <= 1940" ; Times: 1
+	Query: "dipodomys heermanni (Kern County)" ; Times: 1
+	Query: "UCLA-15112" ; Times: 1
+	Query: "birds type:specimen (costa rica) year >= 1850 year <= 2015 institutioncode:UCLA hastypestatus:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "type:specimen genus:Aratinga (brevipes)" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "country:"mexico" recordedby:brown AND (topotype) year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: "birds (costa rica) year >= 1850 year <= 2015 institutioncode:UCLA hastypestatus:1" ; Times: 2
+	Query: "Sciurus griseus county:"San Diego"" ; Times: 1
+	Query: "Sittasomus griseicapillus jaliscensis" ; Times: 1
+	Query: "Kerodon" ; Times: 1
+	Query: "distance(location,geopoint(28.579036,-112.507516))<15000" ; Times: 1
+	Query: "Catharus dryas Mexico" ; Times: 1
+	Query: "Oryzomys saturatior" ; Times: 23
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))<15000" ; Times: 1
+	Query: "Nonnula rubecula type:specimen" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Melanerpes uropygialis cardonensis" ; Times: 1
+	Query: "mcz 19554" ; Times: 1
+	Query: "wilsonia pusilla (los angeles) year <= 1970 month >= 12 month <= 12" ; Times: 1
+	Query: "Islas San Benitos" ; Times: 2
+	Query: "12113" ; Times: 1
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "habia alfaroana" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.147516))<15000" ; Times: 1
+	Query: "Aimophila ruficauda" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-109.277516))<15000" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.807516))<15000" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "Dipodomys merriami collinus" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-110.637516))<15000" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "zonotrichia atricapilla pasadena" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: "type:specimen (Acanthidops bairdii)" ; Times: 1
+	Query: "Oceanodroma Benito" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 507 download events in this period)
+Total number of records downloaded: 5469 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 4021
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 62
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 6
+	Date: 2016-01-02 ; Times: 9
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-25 ; Times: 7
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: "skin genus: Haplospiza sex:male" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "birds type:specimen (costa rica) year >= 1850 year <= 2015 institutioncode:UCLA hastypestatus:1" ; Times: 1
+	Query: ""Platyrinchus mystaceus"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: ""Trogon personatus"" ; Times: 1
+	Query: "country:"mexico" recordedby:brown AND (topotype) year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: ""Iridosornis analis"" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic)" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Iridosornis sex:male" ; Times: 1
+	Query: ""Thraupis cyanocephala"" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Taxidea taxus stateprovince:"Minnesota"" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: ""Premnoplex brunnescens"" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "country:"mexico" recordedby:brown year >= 1890 year <= 1955 hastypestatus:1" ; Times: 1
+	Query: ""Myrmotherula schisticolor"" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "genus:Sorex county:"Linn" stateprovince:"Oregon"" ; Times: 1
+	Query: "type:specimen locality:Buttes county:"Sutter"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 80
+Total number of records downloaded: 5469
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 158
+Total number of records retrieved from searches: 2528
+Number of download events that retrieved data from the resource: 80
+Total number of records downloaded: 5469
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
