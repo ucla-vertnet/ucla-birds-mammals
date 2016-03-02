@@ -1,0 +1,226 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 129
+Number of records retrieved in searches: 1347
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 77
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 22
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 8
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 8
+	Date: 2016-02-16 ; Times: 3
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 13
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-02 ; Times: 7
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-25 ; Times: 7
+	Date: 2016-02-24 ; Times: 11
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-05 ; Times: 7
+	Date: 2016-02-04 ; Times: 8
+	Date: 2016-02-07 ; Times: 1
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo vicinior" ; Times: 1
+	Query: "30149" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Peromyscus interparietalis" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "peromyscus slevini" ; Times: 1
+	Query: "Peromyscus caniceps" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 2
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "homo" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "salpinctes obsoletus exsul" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 3
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "peromyscus pseudocrinitus" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "apus barbatus" ; Times: 2
+	Query: "(weight OR mass AND &#34;Pipra mentalis&#34; OR &#34;Dixiphia mentalis&#34;)" ; Times: 1
+	Query: "peromyscus caniceps" ; Times: 1
+	Query: "sporophila torqueola type:specimen (weight)" ; Times: 1
+	Query: "felis (california)" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "genus:bubo stateprovince:Nevada year&gt;= 1900" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "laterallus jamaicensis" ; Times: 3
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "california antilocapra" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Vireo vicinior mexico" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "peromyscus dickeyi" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "vireo vanrossemi" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "Piranga ludoviciana lsu" ; Times: 1
+	Query: "Catharus guttatus distance(location,geopoint(31.989441837922904,-116.12548828125))&lt;100000" ; Times: 1
+	Query: "Vireo vicinior year &gt;= 1940 year &lt;= 2016" ; Times: 1
+	Query: "class:aves locality:magdalena country:&#34;Mexico&#34; year &gt;= 1925 year &lt;= 1925 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Peromyscus guardia" ; Times: 1
+	Query: "melanerpes erythrocephalus loudoun county" ; Times: 1
+	Query: "peromyscus pembertoni" ; Times: 1
+	Query: "Peromyscus sejugis" ; Times: 1
+	Query: "chiroptera distance(location,geopoint(30.410781790845892,-115.42236328125))&lt;185695" ; Times: 1
+	Query: "Urocyon Littoralis institutioncode:UCLA" ; Times: 2
+	Query: "witch" ; Times: 5
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR ethanol OR alcohol) mappable:1" ; Times: 1
+	Query: "Accipiter chionogaster type:specimen" ; Times: 1
+	Query: "peromyscus sejugis" ; Times: 3
+	Query: "33903" ; Times: 1
+	Query: "specificepithet:LAUDABILIS genus:icterus" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 2
+	Query: "Peromyscus pseudocrinitus" ; Times: 1
+	Query: "felis channel islands" ; Times: 1
+	Query: "antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Procyon lotor type:specimen (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "Peromyscus slevini" ; Times: 1
+	Query: "san jose island class:Aves country:&#34;Mexico&#34; recordedby:brown" ; Times: 1
+	Query: "Felis California" ; Times: 3
+	Query: "peromyscus guardia" ; Times: 2
+	Query: "family:cricetidae (8251 )" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "aviceda cuculoides" ; Times: 2
+	Query: "peromyscus interparietalis" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 2
+	Query: "33755" ; Times: 1
+	Query: "ara militaris" ; Times: 20
+	Query: "strigiformes AND (asio) institutioncode:UCLA" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 2
+	Query: "Dunham class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 512 download events in this period)
+Total number of records downloaded: 5301
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 37
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 6
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 1
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-09 ; Times: 1
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 7
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 8
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-05 ; Times: 4
+	Date: 2016-02-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "Delphinidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1924 year &lt;= 1925" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1936 year &lt;= 1937" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Yukon&#34; country:&#34;Canada&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1920 year &lt;= 1926 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1946 year &lt;= 1949" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "Urocyon Littoralis institutioncode:UCLA" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
