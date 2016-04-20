@@ -1,0 +1,126 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 275
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 31
+	Country: Netherlands ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 12
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "specificepithet:bachmani genus:sylvilagus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "genus:Carpodacus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "WILLETT BARBARA ISLAND" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "dendrocitta formosa" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "Tringa solitaria (British Columbia)" ; Times: 1
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "canis latrans Death Valley" ; Times: 1
+	Query: "diglossa baritula" ; Times: 3
+	Query: "genus:Tamias stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "locality:San Cayetano" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 230 download events in this period)
+Total number of records downloaded: 1792
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 12
+	Date: 2016-03-01 ; Times: 3
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
