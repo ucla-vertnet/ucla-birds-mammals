@@ -1,0 +1,195 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1937
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 45
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 74
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 9
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 17
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 8
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 4
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 5
+	Date: 2016-05-05 ; Times: 5
+	Date: 2016-05-06 ; Times: 2
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 19
+	Date: 2016-05-24 ; Times: 2
+	Date: 2016-05-25 ; Times: 5
+	Date: 2016-05-22 ; Times: 5
+	Date: 2016-05-23 ; Times: 5
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 4
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 2
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "distance(location,geopoint(29.173036,-112.217516))&lt;15000" ; Times: 1
+	Query: "Aythya marila AND Island" ; Times: 1
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "type:specimen specificepithet:californicus genus:Macrotus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;8880.92965594135" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "Ardea AND Island AND California" ; Times: 1
+	Query: "Amazilia beryllina devillei" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "genus:Tamias institutioncode:UCLA" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "Heteroscelus incanus AND San Clemente Island" ; Times: 3
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Blarina county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Pandion AND San Clemente Island" ; Times: 1
+	Query: "Synthliboramphus antiquus AND Santa Catalina Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias" ; Times: 1
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "specificepithet:bairdi genus:Delphinus" ; Times: 2
+	Query: "urocyon littoralis catalinae" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Huey AND San Clemente Island" ; Times: 1
+	Query: "specificepithet:variegatus class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Sheldon AND Santa Rosa Island" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;WI&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34; mappable:1" ; Times: 1
+	Query: "melanerpes santacruzi" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 2
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Huey AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:palmeri genus:Tamias" ; Times: 1
+	Query: "San Clemente Island AND Pandion" ; Times: 1
+	Query: "Otocoris AND Island" ; Times: 1
+	Query: "Henshaw AND Santa Cruz Island" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-113.547516))&lt;15000" ; Times: 1
+	Query: "specificepithet:granatensis genus:sciurus order:rodentia country:&#34;costa rica&#34;" ; Times: 2
+	Query: "class:Mammalia county:&#34;San Diego&#34; recordedby:Huey" ; Times: 1
+	Query: "distance(location,geopoint(27.067036,-108.317516))&lt;15000" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "Eremophila alpestris AND San Miguel Island" ; Times: 1
+	Query: "Chironectes minimus argyrodytes" ; Times: 1
+	Query: "Ardea AND San Clemente Island" ; Times: 1
+	Query: "Eremophila alpestris AND San Clemente Island" ; Times: 1
+	Query: "Fratercula AND Miguel Island" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 14
+	Query: "Ardea AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "Ardea AND Santa Barbara Island" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Selasphorus AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Abrocoma cinerea" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "Gulo weight" ; Times: 1
+	Query: "genus:Dipodomys class:Mammalia county:&#34;San Diego&#34; recordedby:Huey" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "ara militaris" ; Times: 2
+	Query: "Branta bernicla AND California AND Island" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 2
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "Larus heermanni AND Santa Catalina Island" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Uria aalge AND Miguel Island" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "aves Polioptila nigriceps 33978" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 327 download events in this period)
+Total number of records downloaded: 5081
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 17
+	Country: China ; Times: 3
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 5
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "calypte anna" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "type:specimen specificepithet:californicus genus:Macrotus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
