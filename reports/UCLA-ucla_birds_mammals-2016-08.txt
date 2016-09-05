@@ -1,0 +1,318 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 322
+Number of records retrieved in searches: 3820
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 2
+	Country: United States ; Times: 284
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 5
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 147
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 17
+	Date: 2016-08-15 ; Times: 11
+	Date: 2016-08-16 ; Times: 19
+	Date: 2016-08-17 ; Times: 7
+	Date: 2016-08-18 ; Times: 8
+	Date: 2016-08-19 ; Times: 3
+	Date: 2016-08-30 ; Times: 18
+	Date: 2016-08-31 ; Times: 10
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 23
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-27 ; Times: 6
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-20 ; Times: 4
+	Date: 2016-08-23 ; Times: 13
+	Date: 2016-08-22 ; Times: 5
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "34126" ; Times: 1
+	Query: "gbifdatasetid:8631295a-f762-11e1-a439-00145eb45e9a" ; Times: 6
+	Query: "loxioides" ; Times: 1
+	Query: "type:specimen class:mammalia distance(location,geopoint(31.725052466853278,-114.85107421875))&lt;34052.103441188374" ; Times: 2
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "anseriformes institutioncode:UCLA" ; Times: 2
+	Query: "Cedros Island AND Mammals" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;216446" ; Times: 1
+	Query: "falco rufigularis" ; Times: 4
+	Query: "Marmota monax stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Myotis AND Catalina Island" ; Times: 1
+	Query: "Elliott AND ISland AND California" ; Times: 1
+	Query: "Cistothorus palustris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "agelaius humeralis" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "genus:Cotinga mappable:1" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "San Nicolas Island AND Carpodacus" ; Times: 1
+	Query: "San Nicolas Island AND 1941 NOT MExico NOT ICH NOT Fish" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "dipodomys microps year &gt;= 1920 year &lt;= 1955 distance(location,geopoint(37.54457732085582,-117.66357421875))&lt;100000" ; Times: 2
+	Query: "Cedros Island AND Mammals NOT Trinidad" ; Times: 1
+	Query: "Catalina AND Carpodacus NOT Arizona" ; Times: 1
+	Query: "Nicolas Island AND Phoca" ; Times: 1
+	Query: "CA 11098" ; Times: 3
+	Query: "San Nicolas Island AND Enhydra" ; Times: 1
+	Query: "specificepithet:dickeyi genus:Peromyscus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 1
+	Query: "Pheucticus AND Nicolas Island" ; Times: 2
+	Query: "UCLA 15489" ; Times: 1
+	Query: "dendroica magnolia country:&#34;Canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 132
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "type:specimen class:Mammalia county:&#34;mexicali&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "genus:Ovis sheldon" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "CA 5051" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 14
+	Query: "catalognumber:18298 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:interparietalis genus:Peromyscus" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Aeronautes saxatalis nigrior type:specimen" ; Times: 2
+	Query: "SAn Benito AND Carpodacus" ; Times: 1
+	Query: "Phainopepla AND Island" ; Times: 1
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "Catharus fuscater Panama" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 2
+	Query: "Cedros Island AND Mammalia NOT Trinidad" ; Times: 2
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "Homo sapiens AND Island" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Elliott AND ISland AND California NOT England" ; Times: 1
+	Query: "Barbara Island AND Phoca" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "MCZ 11934" ; Times: 2
+	Query: "Anseriformes type:specimen institutioncode:UCLA" ; Times: 7
+	Query: "14878" ; Times: 1
+	Query: "county:&#34;dekalb&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "specificepithet:lyelli genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Homo sapiens AND Island AND California" ; Times: 1
+	Query: "Chondestes grammacus cHIHUAHUA" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "glaucomys volans massachusetts" ; Times: 1
+	Query: "San Nicolas Island AND Carpodacus NOT SBMNH" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "stateprovince:&#34;WV&#34;" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "San Nicolas Island AND 1932" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "sialia caribaea" ; Times: 2
+	Query: "San Clemente Island AND Urocyon" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Thamnistes" ; Times: 2
+	Query: "Elliott AND ISland" ; Times: 1
+	Query: "Nicolas Island AND Urocyon" ; Times: 2
+	Query: "institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Catalina AND Carpodacus" ; Times: 1
+	Query: "dipodomys colton" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "anitae" ; Times: 1
+	Query: "Corvus AND corax AND Channel" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "thalurania fannyi" ; Times: 9
+	Query: "San Nicolas Island AND 1932 NOT MExico NOT ICH" ; Times: 2
+	Query: "Elliott AND ISland AND California NOT England NOT Regal" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "agelaius humeralis type:specimen sex:male preparations:skin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 156 (out of 924 download events in this period)
+Total number of records downloaded: 13738
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 21
+	Country: France ; Times: 2
+	Country: United States ; Times: 107
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-13 ; Times: 2
+	Date: 2016-08-14 ; Times: 3
+	Date: 2016-08-15 ; Times: 4
+	Date: 2016-08-16 ; Times: 31
+	Date: 2016-08-17 ; Times: 6
+	Date: 2016-08-18 ; Times: 5
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-30 ; Times: 10
+	Date: 2016-08-31 ; Times: 16
+	Date: 2016-08-29 ; Times: 13
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 17
+	Date: 2016-08-24 ; Times: 8
+	Date: 2016-08-27 ; Times: 2
+	Date: 2016-08-26 ; Times: 6
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 2
+	Date: 2016-08-23 ; Times: 4
+	Date: 2016-08-22 ; Times: 8
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "specificepithet:monax genus:Marmota hasmass:1" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "Mecca" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "order:Lagomorpha hasmass:1" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen class:mammalia distance(location,geopoint(31.725052466853278,-114.85107421875))&lt;34052.103441188374" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "Stubby Spring" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "Cypseloides" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Thousand Palms" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 2
+	Query: "specificepithet:lyelli genus:Sorex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "microtus townsendii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;305888" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Quail Spring" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Myotis hasmass:1" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
