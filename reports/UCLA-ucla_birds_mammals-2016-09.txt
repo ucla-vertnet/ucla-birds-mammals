@@ -1,0 +1,293 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 248
+Number of records retrieved in searches: 3267
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 52
+	Country: Netherlands ; Times: 37
+	Country: Portugal ; Times: 92
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 50
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 8
+	Date: 2016-09-05 ; Times: 14
+	Date: 2016-09-21 ; Times: 2
+	Date: 2016-09-16 ; Times: 2
+	Date: 2016-09-01 ; Times: 8
+	Date: 2016-09-07 ; Times: 19
+	Date: 2016-09-17 ; Times: 3
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 10
+	Date: 2016-09-11 ; Times: 8
+	Date: 2016-09-10 ; Times: 31
+	Date: 2016-09-08 ; Times: 60
+	Date: 2016-09-09 ; Times: 44
+	Date: 2016-09-15 ; Times: 4
+	Date: 2016-09-14 ; Times: 7
+	Date: 2016-09-23 ; Times: 3
+	Date: 2016-09-19 ; Times: 1
+	Date: 2016-09-18 ; Times: 3
+	Date: 2016-09-06 ; Times: 12
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliomaster constantii 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Carduelis tristis 1" ; Times: 1
+	Query: "Chalybura urochrysia 1" ; Times: 1
+	Query: "locality:adak stateprovince:&#34;alaska&#34; year &gt;= 1800 year &lt;= 1945" ; Times: 1
+	Query: "Phaethornis longuemareus 1" ; Times: 1
+	Query: "Bubo virginianus 1" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 2
+	Query: "Melozone leucotis" ; Times: 2
+	Query: "colu mappable:1" ; Times: 1
+	Query: "Ortalis wagleri 1" ; Times: 1
+	Query: "Phaethornis superciliosus 1" ; Times: 1
+	Query: "Bombycilla garrulus 1" ; Times: 2
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "Cyrtonyx montezumae 1" ; Times: 1
+	Query: "Amaurornis flavirostra 1" ; Times: 1
+	Query: "Archilochus colubris 1" ; Times: 1
+	Query: "Cinclodes fuscus 1" ; Times: 1
+	Query: "Amazilia beryllina 1" ; Times: 1
+	Query: "Hylocharis leucotis 1" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Aratinga finschi 1" ; Times: 1
+	Query: "Poephila guttata 1" ; Times: 2
+	Query: "Meleagris ocellata 1" ; Times: 1
+	Query: "Corvus splendens" ; Times: 3
+	Query: "Amazona farinosa 1" ; Times: 2
+	Query: "Anas americana 1" ; Times: 3
+	Query: "13921" ; Times: 1
+	Query: "Ortalis vetula 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Cairina moschata 1" ; Times: 4
+	Query: "Sula leucogaster type:specimen continent:North America" ; Times: 1
+	Query: "Amazona albifrons 1" ; Times: 3
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 47
+	Query: "Chaetura cinereiventris continent:America mappable:1" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Euplectes axillaris 1" ; Times: 2
+	Query: "9759 class:Aves" ; Times: 1
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Lonchura cucullata 1" ; Times: 1
+	Query: "Eugenes fulgens 1" ; Times: 1
+	Query: "Brotogeris jugularis 1" ; Times: 1
+	Query: "Euplectes orix 1" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "Aramus guarauna 1" ; Times: 1
+	Query: " specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Melozone leucotis country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "Eurypyga helias 1" ; Times: 1
+	Query: "Ortalis leucogastra 1" ; Times: 1
+	Query: "dasypus novemcinctus ucla" ; Times: 2
+	Query: "Bubo bubo 1" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia" ; Times: 2
+	Query: "Sclerurus guatemalensis 1" ; Times: 1
+	Query: "Amazona ochrocephala 1" ; Times: 2
+	Query: "Meleagris gallopavo 1" ; Times: 2
+	Query: "Amazilia amazilia 1" ; Times: 2
+	Query: "Himantopus mexicanus 1" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "Anas cyanoptera 1" ; Times: 2
+	Query: "Icterus pectoralis 1" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "Dendragapus canadensis 1" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "falco rufigularis continent:america" ; Times: 1
+	Query: "class:Mammalia coendou" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Aix sponsa 1" ; Times: 2
+	Query: "Chlorostilbon canivetii 1" ; Times: 1
+	Query: "E31" ; Times: 1
+	Query: "stateprovince:&#34;MS&#34;" ; Times: 1
+	Query: "Florisuga mellivora 1" ; Times: 1
+	Query: "altivagans" ; Times: 3
+	Query: "Anas crecca 1" ; Times: 1
+	Query: "Choeronycteris mexicana 1" ; Times: 1
+	Query: "Crax rubra 1" ; Times: 1
+	Query: "Platalea ajaja 1" ; Times: 1
+	Query: "Lonchura bicolor 1" ; Times: 1
+	Query: "Selasphorus platycercus 1" ; Times: 1
+	Query: "Penelope purpurascens 1" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "Falco femoralis 1" ; Times: 2
+	Query: "Lophodytes cucullatus 1" ; Times: 2
+	Query: "Amazilia cyanocephala 1" ; Times: 1
+	Query: "Callipepla douglasii 1" ; Times: 1
+	Query: "Emberiza cioides 1" ; Times: 1
+	Query: "Carpodacus mexicanus 1" ; Times: 1
+	Query: "numenius tahitiensis" ; Times: 1
+	Query: "Threnetes ruckeri 1" ; Times: 1
+	Query: "Bubo scandiaca 1" ; Times: 1
+	Query: "podiceps california loveland" ; Times: 1
+	Query: "Anthracothorax prevostii 1" ; Times: 2
+	Query: "Carduelis sinica 1" ; Times: 1
+	Query: "Colibri delphinae 1" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Amazilia cyanura 1" ; Times: 1
+	Query: "Calocitta formosa 1" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "Amazilia saucerrottei 1" ; Times: 1
+	Query: "Ateles geoffroyi 1" ; Times: 1
+	Query: "Glossophaga soricina 1" ; Times: 1
+	Query: "Automolus ochrolaemus 1" ; Times: 1
+	Query: "Catharus mexicanus" ; Times: 1
+	Query: "Thalurania furcata 1" ; Times: 1
+	Query: "Haematopus bachmani 1" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "Ortalis poliocephala 1" ; Times: 2
+	Query: "type:specimen family:Tinamidae AND (egg)" ; Times: 1
+	Query: "Buteo jamaicensis 1" ; Times: 1
+	Query: "streptoprocne zonaris continent:America mappable:1" ; Times: 3
+	Query: "Chen rossii 1" ; Times: 1
+	Query: "Abeillia abeillei 1" ; Times: 1
+	Query: "Amazilia tzacatl 1" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "Ortalis cinereiceps 1" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 3
+	Query: "falco rufigularis continent:america mappable:1" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Amazilia rutila 1" ; Times: 1
+	Query: "12359" ; Times: 1
+	Query: "Selasphorus rufus 1" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 2
+	Query: "Procyon lotor 1" ; Times: 3
+	Query: "melozone leucotis" ; Times: 1
+	Query: "Anas discors 1" ; Times: 2
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "Lampornis castaneoventris 1" ; Times: 1
+	Query: "Sturnella magna 1" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 2
+	Query: "Dacnis cayana 1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Bucephala clangula 1" ; Times: 1
+	Query: "cypseloides cryptus class:aves" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 1
+	Query: "Aythya valisineria 1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Eudocimus albus 1" ; Times: 1
+	Query: "Parabuteo unicinctus 1" ; Times: 1
+	Query: "Cardinalis cardinalis 1" ; Times: 2
+	Query: "Anas rubripes 1" ; Times: 1
+	Query: "melozone leucotis nigrior" ; Times: 2
+	Query: "9795 class:Aves" ; Times: 1
+	Query: "Callipepla gambelii 1" ; Times: 1
+	Query: "specificepithet:Variegatus genus:Spermophilus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 188 (out of 811 download events in this period)
+Total number of records downloaded: 119848
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 69
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 9
+	Date: 2016-09-12 ; Times: 7
+	Date: 2016-09-11 ; Times: 10
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 11
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 18
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 9
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-07 ; Times: 10
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-01 ; Times: 17
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 15
+	Date: 2016-09-05 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "Chaetura cinereiventris continent:America mappable:1" ; Times: 1
+	Query: "streptoprocne zonaris continent:America mappable:1" ; Times: 1
+	Query: "Sula leucogaster type:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Melozone leucotis country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "Natalus" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "progne chalybea continent:america" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "myioborus miniatus type:specimen" ; Times: 2
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Callipepla californica" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "mustela frenata" ; Times: 1
+	Query: "Macrotus californicus mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "cistothorus platensis type:specimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+
+
+End of report.
