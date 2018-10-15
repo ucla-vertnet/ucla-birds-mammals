@@ -1,0 +1,578 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 525
+Number of records retrieved in searches: 2983
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Poland ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 488
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Slovakia ; Times: 1
+	Country: Germany ; Times: 9
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-16 ; Times: 11
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 10
+	Date: 2017-12-15 ; Times: 294
+	Date: 2017-12-12 ; Times: 15
+	Date: 2017-12-13 ; Times: 13
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-18 ; Times: 11
+	Date: 2017-12-19 ; Times: 11
+	Date: 2017-12-29 ; Times: 6
+	Date: 2017-12-28 ; Times: 2
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-26 ; Times: 11
+	Date: 2017-12-25 ; Times: 5
+	Date: 2017-12-24 ; Times: 7
+	Date: 2017-12-23 ; Times: 9
+	Date: 2017-12-22 ; Times: 3
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 5
+	Date: 2017-12-05 ; Times: 23
+	Date: 2017-12-04 ; Times: 17
+	Date: 2017-12-07 ; Times: 8
+	Date: 2017-12-06 ; Times: 7
+	Date: 2017-12-01 ; Times: 15
+	Date: 2017-12-03 ; Times: 8
+	Date: 2017-12-02 ; Times: 5
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-08 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:87 institutioncode:UCLA" ; Times: 1
+	Query: "Zapus 2676" ; Times: 1
+	Query: "Zapus 2677" ; Times: 1
+	Query: "genus:ara stateprovince:&#34;sonora&#34;" ; Times: 1
+	Query: "catalognumber:31070 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29382 institutioncode:UCLA" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico" ; Times: 1
+	Query: "catalognumber:23105 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:11478 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Cinclus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "catalognumber:40388 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33347 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;100000" ; Times: 1
+	Query: "catalognumber:33679 institutioncode:UCLA" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;san diego&#34; stateprovince:&#34;california&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:7419 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:31490 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29307 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33895 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "catalognumber:32769 institutioncode:UCLA" ; Times: 1
+	Query: "porzana porzana hastissue:1" ; Times: 4
+	Query: "4953 Aves" ; Times: 1
+	Query: "catalognumber:30061 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23084 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23539 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29305 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33362 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40385 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28338 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30148 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler" ; Times: 3
+	Query: "catalognumber:33212 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40379 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:564 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catharus country:&#34;Costa Rica&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:29900 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33916 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;SC&#34;" ; Times: 1
+	Query: "catalognumber:30149 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:31429 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29922 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35332 institutioncode:UCLA" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "catalognumber:30338 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34002 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Peromyscus county:&#34;san diego&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:23050 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32269 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Haematopus hastissue:1" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34;" ; Times: 4
+	Query: "catalognumber:31984 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:33832 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33891 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:8134 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29304 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:27262 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:La Jolla county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:30559 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23468 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33814 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "nyctibius griseus month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "catalognumber:33740 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;IL&#34;" ; Times: 1
+	Query: "class:Aves locality:Eagle county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:29377 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:28158 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32728 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:7451 institutioncode:UCLA" ; Times: 3
+	Query: "catalognumber:32257 institutioncode:UCLA" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33165 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:17675 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:29575 institutioncode:UCLA" ; Times: 1
+	Query: "19886 Aves" ; Times: 2
+	Query: "catalognumber:33230 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:craveri class:Aves year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "specificepithet:wortheni genus:spizella" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:27261 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14401 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29847 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33748 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Mendocino&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Zapus 2471" ; Times: 1
+	Query: "catalognumber:15480 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:40383 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33502 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:22507 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "catalognumber:34000 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:11477 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29915 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33743 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29993 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler year &gt;= 1941" ; Times: 1
+	Query: "catalognumber:11458 institutioncode:UCLA" ; Times: 1
+	Query: "Caprimulgus maculicaudus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "ardeidae skeleton egretta rufescens" ; Times: 1
+	Query: "catalognumber:33689 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28072 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler year &gt;= 1941 year &lt;= 1941" ; Times: 1
+	Query: "catalognumber:16593 institutioncode:UCLA" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:brown year &gt;= 1910 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:32347 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:22506 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14748 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29848 institutioncode:UCLA" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "catalognumber:14727 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(42.5335168335001,-71.6198000755))&lt;4983" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "catalognumber:33358 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:wortheni genus:Spizella year &lt;= 1924" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex mappable:1" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 27
+	Query: "catalognumber:33735 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:35336 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:33018 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:wortheni genus:spizella year &lt;= 1924" ; Times: 3
+	Query: "catalognumber:14706 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33774 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33382 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:19453 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24364 institutioncode:UCLA" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "catalognumber:32705 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33773 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35337 institutioncode:UCLA" ; Times: 1
+	Query: "cremona" ; Times: 1
+	Query: "catalognumber:28353 institutioncode:UCLA" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "catalognumber:23495 institutioncode:UCLA" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "catalognumber:19246 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:32348 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34480 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33049 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29286 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:33501 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus locality:mt. country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33297 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:11988 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33690 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32707 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35325 institutioncode:UCLA" ; Times: 3
+	Query: "specificepithet:hirundinacea genus:Euphonia hastissue:1" ; Times: 2
+	Query: "34420" ; Times: 1
+	Query: "catalognumber:34001 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Ursus institutioncode:UCLA" ; Times: 1
+	Query: "colaptes brunnescens" ; Times: 1
+	Query: "catalognumber:29904 institutioncode:UCLA" ; Times: 1
+	Query: "calurus specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:32259 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34238 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:alpina genus:Calidris class:Aves stateprovince:&#34;California&#34; country:&#34;United States&#34; month &gt;= 5 month &lt;= 9" ; Times: 1
+	Query: "catalognumber:32727 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32343 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30529 institutioncode:UCLA" ; Times: 1
+	Query: "UCLA-18843" ; Times: 1
+	Query: "catalognumber:30865 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:La Jolla county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:16108 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33363 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:19451 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "catalognumber:27260 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33005 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:hornbyi genus:Oceanodroma hastissue:1" ; Times: 1
+	Query: "catalognumber:8731 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:agelaius country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:32350 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30591 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35326 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:33360 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14747 institutioncode:UCLA" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "stateprovince:&#34;sonora&#34; recordedby:sheffler preparations:skin" ; Times: 1
+	Query: "catalognumber:33703 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:lawrencei family:Fringillidae hastissue:1" ; Times: 1
+	Query: "catalognumber:17024 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33195 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:35335 institutioncode:UCLA" ; Times: 2
+	Query: "29809" ; Times: 1
+	Query: "catalognumber:33211 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28034 institutioncode:UCLA" ; Times: 1
+	Query: "distance(location,geopoint(41.2570008050001,-70.8169546239999))&lt;1561" ; Times: 1
+	Query: "distance(location,geopoint(43.1386926445001,-71.1485120105))&lt;29323" ; Times: 1
+	Query: "catalognumber:35330 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33775 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28103 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33027 institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;NE&#34;" ; Times: 1
+	Query: "catalognumber:33678 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35328 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29781 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23530 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "catalognumber:40382 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30906 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29263 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24413 institutioncode:UCLA" ; Times: 1
+	Query: "Zapus 2472" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha usa" ; Times: 1
+	Query: "catalognumber:33008 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28373 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34239 institutioncode:UCLA" ; Times: 1
+	Query: "ardeidae skeleton tigrisoma mexicanum" ; Times: 1
+	Query: "catalognumber:32349 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "catalognumber:24389 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:auricularis genus:Puffinus hastissue:1" ; Times: 1
+	Query: "catalognumber:29901 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14745 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:gracilirostris genus:Catharus hastissue:1" ; Times: 3
+	Query: "catalognumber:33375 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23508 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29864 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33156 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;British Columbia&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:13993 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:8618 institutioncode:UCLA" ; Times: 1
+	Query: "Butorides virescens vntype:specimen country:&#34;Mexico&#34; year &gt;= 1900 year &lt;= 1913" ; Times: 1
+	Query: "catalognumber:15532 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40381 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29994 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:16594 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33244 institutioncode:UCLA" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "catalognumber:33314 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14403 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33357 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; continent:north america" ; Times: 1
+	Query: "genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:35329 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33915 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32704 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;pierce&#34; stateprovince:&#34;washington&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33016 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28176 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40387 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24419 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30441 institutioncode:UCLA" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "catalognumber:35334 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32351 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33736 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:11872 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24352 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Riverside&#34; stateprovince:&#34;California&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33158 institutioncode:UCLA" ; Times: 1
+	Query: "duffner arizona 1918" ; Times: 1
+	Query: "catalognumber:32344 institutioncode:UCLA" ; Times: 1
+	Query: "Dendroica petechia county:&#34;San Diego&#34;" ; Times: 2
+	Query: "Zapus 2733" ; Times: 1
+	Query: "Farallon Mammals NOT Mexico NOT Argentina" ; Times: 2
+	Query: "borealis specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:23647 institutioncode:UCLA" ; Times: 2
+	Query: "Dendroica petechia stateprovince:&#34;IL&#34;" ; Times: 1
+	Query: "catalognumber:18457 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;san diego&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Zapus 2543" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:16563 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24365 institutioncode:UCLA" ; Times: 1
+	Query: "aratinga wagleri" ; Times: 4
+	Query: "catalognumber:33361 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30866 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33050 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40384 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:UCLA" ; Times: 1
+	Query: "Homo" ; Times: 2
+	Query: "catalognumber:27799 institutioncode:UCLA" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "catalognumber:14728 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29780 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "catalognumber:29376 institutioncode:UCLA" ; Times: 1
+	Query: "distance(location,geopoint(41.601686958,-69.995009412))&lt;7575" ; Times: 1
+	Query: "catalognumber:16546 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:27866 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:2105 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:33181 institutioncode:UCLA" ; Times: 1
+	Query: "Icterus melanopsis" ; Times: 1
+	Query: "catalognumber:33342 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:33296 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33684 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35331 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:30120 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:8607 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33672 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33982 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34210 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33687 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:23046 institutioncode:UCLA" ; Times: 1
+	Query: "pterodroma hypoleuca hastissue:1" ; Times: 2
+	Query: "specificepithet:hispidus genus:sigmodon stateprovince:&#34;sonora&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Branta canadensis country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:sulphuratus genus:Pitangus hasmass:1" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Perognathus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Butorides virescens vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:8732 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus distance(location,geopoint(49.97948819229304,-119.68945473432541))&lt;51103" ; Times: 1
+	Query: "catalognumber:27880 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33674 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus locality:San Diego county:&#34;San Diego&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:33346 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33688 institutioncode:UCLA" ; Times: 1
+	Query: "peet bird collection" ; Times: 3
+	Query: "catalognumber:23618 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:30815 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35327 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33744 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:32786 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40380 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Phoebastria OR Diomedea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:33028 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33364 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:microsoma class:Aves stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "28290 Aves" ; Times: 2
+	Query: "catalognumber:23626 institutioncode:UCLA" ; Times: 2
+	Query: "Zapus 2683" ; Times: 1
+	Query: "Zapus 2682" ; Times: 1
+	Query: "catalognumber:30201 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33164 institutioncode:UCLA" ; Times: 3
+	Query: "Zapus 2689" ; Times: 1
+	Query: "Acrocephalus orientalis hastissue:1" ; Times: 1
+	Query: "catalognumber:33026 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33675 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33874 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33249 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:29306 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33017 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:8617 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28337 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:craveri genus:Synthliboramphus stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; continent:north america" ; Times: 1
+	Query: "catalognumber:33059 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33739 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33199 institutioncode:UCLA" ; Times: 1
+	Query: "18756 Aves" ; Times: 2
+	Query: "catalognumber:14031 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:34245 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 6
+	Query: "catalognumber:14402 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29995 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29162 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:15912 institutioncode:UCLA" ; Times: 2
+	Query: "locality:Stubby county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:microsoma class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cardinalis townsendi" ; Times: 2
+	Query: "catalognumber:35338 institutioncode:UCLA" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "catalognumber:28228 institutioncode:UCLA" ; Times: 1
+	Query: "microtus pennsylvanicus terraenovae" ; Times: 1
+	Query: "catalognumber:27872 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:27956 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14714 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:34481 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24381 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:8626 institutioncode:UCLA" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "catalognumber:40389 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:17182 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14707 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:24345 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40386 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:17434 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:30223 institutioncode:UCLA" ; Times: 1
+	Query: "cardinalis affinis" ; Times: 1
+	Query: "catalognumber:40390 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33221 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:18973 institutioncode:UCLA" ; Times: 5
+	Query: "catalognumber:13992 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:14744 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29914 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28655 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:28441 institutioncode:UCLA" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "catalognumber:33359 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:35333 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Snohomish&#34; stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "Myrmeciza exsul country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:27856 institutioncode:UCLA" ; Times: 2
+	Query: "Farallon Mammals" ; Times: 5
+	Query: "catalognumber:11544 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:29147 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "catalognumber:8616 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:15453 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:40391 institutioncode:UCLA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 674 download events in this period)
+Total number of records downloaded: 6178
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-27 ; Times: 9
+	Date: 2017-12-26 ; Times: 15
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 2
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-08 ; Times: 4
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "genus:odocoileus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maniculatus genus:Peromyscus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:buteo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeonotus genus:Junco stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:spinatus family:Heteromyidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Otus stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Perognathus flavescens mappable:1" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "specificepithet:crinitus genus:myiarchus month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34; mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:Corvus hasmass:1" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
