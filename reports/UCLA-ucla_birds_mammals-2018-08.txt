@@ -1,0 +1,323 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 400
+Number of records retrieved in searches: 6395
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 146
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 206
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 24
+	Country: Denmark ; Times: 2
+	Country: Cyprus ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 11
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 13
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-23 ; Times: 11
+	Date: 2018-08-14 ; Times: 10
+	Date: 2018-08-15 ; Times: 17
+	Date: 2018-08-12 ; Times: 5
+	Date: 2018-08-13 ; Times: 52
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-11 ; Times: 6
+	Date: 2018-08-02 ; Times: 18
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-03 ; Times: 11
+	Date: 2018-08-17 ; Times: 86
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 2
+	Date: 2018-08-24 ; Times: 16
+	Date: 2018-08-09 ; Times: 19
+	Date: 2018-08-22 ; Times: 15
+	Date: 2018-08-21 ; Times: 11
+	Date: 2018-08-20 ; Times: 14
+	Date: 2018-08-05 ; Times: 7
+	Date: 2018-08-04 ; Times: 6
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 12
+	Date: 2018-08-01 ; Times: 16
+	Date: 2018-08-29 ; Times: 12
+	Date: 2018-08-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator coerulescens brevicaudus" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "Diglossa baritula El Salvador" ; Times: 1
+	Query: "aimophila spadiconigrescens" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus county:&#34;humboldt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 3
+	Query: "21408" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis)" ; Times: 5
+	Query: "buteo japonicus" ; Times: 1
+	Query: "genus:Indicator hastissue:1" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "amphispiza tortugae" ; Times: 1
+	Query: "Ara macao" ; Times: 5
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "colinus stateprovince:&#34;Illinois&#34;" ; Times: 2
+	Query: "genus:sterna institutioncode:UCLA" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "family:Bovidae institutioncode:UCLA" ; Times: 2
+	Query: "genus:tamiasciurus county:&#34;humboldt&#34;" ; Times: 1
+	Query: "segoviensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex stateprovince:&#34;oregon&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:californica genus:callipepla stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo hastissue:1" ; Times: 2
+	Query: "25891" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 49
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:torqueola genus:sporophila hasmass:1" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "order:Artiodactyla institutioncode:UCLA" ; Times: 4
+	Query: "33004" ; Times: 1
+	Query: "Aphelocoma insularis 1911" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "Auriparus flaviceps hastissue:1" ; Times: 3
+	Query: "26688" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "genus:zimmerius continent:north america" ; Times: 2
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 4
+	Query: "gulo gulo ucla" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 2
+	Query: "Lampornis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "H77" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "catalognumber:6998 institutioncode:UCLA" ; Times: 1
+	Query: "Aphelocoma insularis 1914" ; Times: 1
+	Query: "genus:sterna county:&#34;orange&#34; institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 2
+	Query: "glaucomys sabrinus californicus" ; Times: 1
+	Query: "&#34;sunset beach&#34; genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "33147 class:aves" ; Times: 1
+	Query: "tanysiptera meyeri" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus hastissue:1" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:UCLA" ; Times: 1
+	Query: "Ficedula mugimaki hastissue:1" ; Times: 1
+	Query: "genus:Parabuteo hastypestatus:1" ; Times: 1
+	Query: "26380" ; Times: 1
+	Query: "catalognumber:9928 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:UCLA" ; Times: 1
+	Query: "automolus exsertus" ; Times: 2
+	Query: "genus:Spilogale institutioncode:UCLA" ; Times: 1
+	Query: "Aphelocoma insularis 1909" ; Times: 1
+	Query: "specificepithet:graciae genus:Dendroica hastissue:1" ; Times: 2
+	Query: "troglodytes pullus" ; Times: 1
+	Query: "(Microtus guentheri)" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "stateprovince:&#34;sonora&#34; country:&#34;mexico&#34; year &gt;= 1937 year &lt;= 1937 month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "Honduras mammal" ; Times: 1
+	Query: "Glaucomys sabrinus californicus" ; Times: 2
+	Query: "genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:UCLA" ; Times: 1
+	Query: "decoloratus" ; Times: 1
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "genus:Vulpes institutioncode:UCLA" ; Times: 4
+	Query: "24921" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Saltator grossus saturatus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Aphelocoma insularis 1930" ; Times: 1
+	Query: "genus:sterna county:&#34;orange&#34; (dickey) institutioncode:UCLA" ; Times: 2
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "specificepithet:epops genus:Upupa hastissue:1" ; Times: 1
+	Query: "genus:Tamandua haslifestage:1 hastissue:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:UCLA" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 135
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:indicatoridae hastissue:1" ; Times: 1
+	Query: "Nativitatis" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Aphelocoma insularis 1929" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "Aphelocoma insularis 1920" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 1
+	Query: "Aphelocoma insularis 1922" ; Times: 1
+	Query: "genus:zimmerius continent:north america hastissue:1" ; Times: 2
+	Query: "Aphelocoma insularis 1924" ; Times: 1
+	Query: "Aphelocoma insularis 1927" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus year &gt;= 1904" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:sinuatus genus:Cardinalis hastissue:1" ; Times: 2
+	Query: "24949" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "Pertinax hasmass:1" ; Times: 1
+	Query: "Lampornis AND Costa Rica" ; Times: 1
+	Query: "UCLA-22739" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "genus:reithrodontomys county:&#34;humboldt&#34;" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 4
+	Query: "class:Aves institutioncode:UCLA" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "Campephilus imperialis 1905" ; Times: 1
+	Query: "Trogon collaris puella" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus" ; Times: 1
+	Query: "genus:sterna county:&#34;orange&#34; (dickey van rossem) institutioncode:UCLA" ; Times: 1
+	Query: "ara macao" ; Times: 17
+	Query: "specificepithet:trowbridgii genus:sorex stateprovince:&#34;washington&#34; hastissue:1" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:curvirostre genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "huey county:&#34;orange&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:lasiurus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "UCLA 20626" ; Times: 2
+	Query: "Diglossa baritula Salvador" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; recordedby:white" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1416 download events in this period)
+Total number of records downloaded: 86985
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 36
+	Country: Mexico ; Times: 38
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: New Zealand ; Times: 2
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 9
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 5
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 12
+	Date: 2018-08-12 ; Times: 4
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-02 ; Times: 8
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-05 ; Times: 5
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Saltator coerulescens brevicaudus" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:otus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:otus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "&#34;myotis lucifugus&#34; hassex:1 hasmass:1" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "specificepithet:dorsale genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Aphelocoma insularis" ; Times: 2
+	Query: "Falco sparverius" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis hastissue:1" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ingens genus:otus" ; Times: 1
+	Query: "Glaucomys sabrinus californicus" ; Times: 1
+	Query: "genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:otus" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "class:Aves institutioncode:UCLA" ; Times: 1
+	Query: "vntype:specimen genus:sterna county:&#34;orange&#34;" ; Times: 1
+	Query: "Saltator grossus saturatus" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla hastissue:1" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(44.946440779477925,-83.84633282292259))&lt;467941.1417995581" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "genus:sterna county:&#34;orange&#34; (dickey van rossem) institutioncode:UCLA" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "oriturus superciliosus" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus hastissue:1" ; Times: 1
+	Query: "class:Mammalia institutioncode:UCLA" ; Times: 2
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Glaucomys sabrinus californicus vntype:specimen AND (NOT columbiensis)" ; Times: 2
+	Query: "specificepithet:curvirostre genus:Toxostoma hastissue:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo hastissue:1" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "oaxaca" ; Times: 1
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "order:Artiodactyla institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:cunicularia genus:Athene family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
