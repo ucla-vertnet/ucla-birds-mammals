@@ -1,0 +1,338 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 310
+Number of records retrieved in searches: 4094
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 182
+	Country: Australia ; Times: 53
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 10
+	Country: Finland ; Times: 2
+	Country: Costa Rica ; Times: 9
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: China ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Ecuador ; Times: 8
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 14
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 8
+	Date: 2018-06-29 ; Times: 8
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 14
+	Date: 2018-06-25 ; Times: 47
+	Date: 2018-06-24 ; Times: 12
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-26 ; Times: 5
+	Date: 2018-06-21 ; Times: 21
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 11
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 8
+	Date: 2018-06-10 ; Times: 3
+	Date: 2018-06-11 ; Times: 13
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-13 ; Times: 6
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 44
+	Date: 2018-06-16 ; Times: 6
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 10
+	Date: 2018-06-19 ; Times: 18
+	Date: 2018-06-30 ; Times: 3
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ochrogenys genus:tamias county:&#34;humboldt&#34;" ; Times: 1
+	Query: "Turdus rufitorques hastissue:1" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "order:Strigiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "reche specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "order:Columbiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Atlapetes gutturalis" ; Times: 2
+	Query: "distance(location,geopoint(44.9652418541295,-83.2617639840543))&lt;22285" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 2
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2867" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2868" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 3
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2890" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2901" ; Times: 1
+	Query: "genus:Turdus class:Aves distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;155205.09912595843" ; Times: 2
+	Query: "Salpinctes country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "specificepithet:saucerrottei genus:Amazilia hastissue:1" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2776" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2777" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2775" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "distance(location,geopoint(44.0205215254591,-83.4491953173319))&lt;16895" ; Times: 2
+	Query: "Chlorophonia occipitalis" ; Times: 2
+	Query: "16262" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 1
+	Query: "sterna dougallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "specificepithet:sitkensis stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "laterallus" ; Times: 1
+	Query: "HUEY SAN BERNARDINO 5 MI specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2852" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2851" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2850" ; Times: 1
+	Query: "specificepithet:canadensis class:aves year &gt;= 1920 year &lt;= 1920 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2749" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2501" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2500" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco year &gt;= 1950 year &lt;= 1950 month &gt;= 5 month &lt;= 5 institutioncode:UCLA" ; Times: 2
+	Query: "Momotus lessonii vntype:specimen hastissue:1" ; Times: 1
+	Query: "hastissue:1 tringa totanus" ; Times: 1
+	Query: "dendragapus (ventura)" ; Times: 1
+	Query: "specificepithet:sitkensis genus:peromyscus" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2885" ; Times: 1
+	Query: "catalognumber:18019 institutioncode:UCLA" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Porzana palmeri)" ; Times: 2
+	Query: "specificepithet:melanura genus:Polioptila year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "catalognumber:26133 institutioncode:UCLA" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 8
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Glaucidium brasilianum cactorum" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2795" ; Times: 1
+	Query: "Crax rubra" ; Times: 8
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2760" ; Times: 1
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:1150" ; Times: 1
+	Query: "21294" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2900" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sterna maxima skeleton" ; Times: 2
+	Query: "catalognumber:20009 institutioncode:UCLA" ; Times: 2
+	Query: "numenius borealis vntype:specimen" ; Times: 4
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "19696" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila county:&#34;Sonoma&#34;" ; Times: 3
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Falco" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:1149" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2821" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Campylorhynchus turdinus unicolor" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "stateprovince:&#34;KS&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.2768308818963,-93.7703836750571))&lt;20247" ; Times: 2
+	Query: "Bahrmann" ; Times: 1
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "melozone grisior" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "Dickey Campephilus 1905" ; Times: 1
+	Query: "myadestes myadestinus" ; Times: 3
+	Query: "genus:Dendragapus stateprovince:&#34;CA&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus locality:Isla Guadalupe" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;CA&#34; year &lt;= 1969" ; Times: 2
+	Query: "specificepithet:aztecus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2891" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "order:Columbiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(36.99840361230559,-117.64436503640354))&lt;194907" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2895" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2894" ; Times: 1
+	Query: "specificepithet:littoralis genus:urocyon hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;ID&#34;" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 2
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; distance(location,geopoint(32.599139527270786,-119.99405069671485))&lt;91454.17103490085" ; Times: 1
+	Query: "HUEY SAN BERNARDINO 3 MI specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "numenius borealis" ; Times: 54
+	Query: "virenticeps" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco year &gt;= 1926 year &lt;= 1926 month &gt;= 9 month &lt;= 9 institutioncode:UCLA" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "genus:Melospiza sex:male institutioncode:UCLA distance(location,geopoint(34.033950528490145,-119.3930964742064))&lt;100000" ; Times: 1
+	Query: "specificepithet:crinitus genus:Peromyscus hastissue:1" ; Times: 2
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "San Diego Zoo Mammalia" ; Times: 1
+	Query: "genus:cyanolyca institutioncode:UCLA" ; Times: 1
+	Query: "frog oregon" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2926" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2925" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2844" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2845" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2846" ; Times: 1
+	Query: "chlorostilbon canivetii" ; Times: 1
+	Query: "sayornis quiescens" ; Times: 2
+	Query: "specificepithet:calendula genus:Regulus country:&#34;Mexico&#34; year &gt;= 1953 year &lt;= 1956" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2842" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2843" ; Times: 1
+	Query: "melanerpes rubricapillus vntype:specimen institutioncode:UCLA" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:agelaius institutioncode:UCLA" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Falco hastissue:1" ; Times: 1
+	Query: "order:Accipitriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "genus:Cyclopes haslifestage:1 hastissue:1" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "thermophilus" ; Times: 1
+	Query: "Turdus confinis hastissue:1" ; Times: 2
+	Query: "villosus new york" ; Times: 1
+	Query: "MVZ 2341 mammal" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:brevirostris genus:Rhynchocyclus family:Tyrannidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:calypte country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "country:&#34;Panama&#34; (inguinalis OR panamansis OR panamensis) hastissue:1" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2834" ; Times: 1
+	Query: "HUEY specificepithet:merriami genus:dipodomys catalognumber:2499" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "vntype:specimen genus:agelaius institutioncode:UCLA" ; Times: 1
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "order:Galliformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Dickey Campephilus" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1169 download events in this period)
+Total number of records downloaded: 4633
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 37
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 12
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 6
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "order:Strigiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "order:Columbiformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:agelaius institutioncode:UCLA" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "order:Accipitriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "Sylvilagus mansuetus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Turdus confinis hastissue:1" ; Times: 1
+	Query: "order:Galliformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "sterna maxima" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
