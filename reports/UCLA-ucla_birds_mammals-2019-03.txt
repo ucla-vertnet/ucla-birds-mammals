@@ -1,0 +1,350 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 251
+Number of records retrieved in searches: 2531
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 21
+	Country: Netherlands ; Times: 7
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 11
+	Country: United States ; Times: 171
+	Country: Germany ; Times: 8
+	Country: United Kingdom ; Times: 11
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Slovakia ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 5
+	Date: 2019-03-27 ; Times: 6
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 8
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 9
+	Date: 2019-03-05 ; Times: 12
+	Date: 2019-03-09 ; Times: 9
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 23
+	Date: 2019-03-01 ; Times: 6
+	Date: 2019-03-29 ; Times: 9
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-04 ; Times: 4
+	Date: 2019-03-15 ; Times: 8
+	Date: 2019-03-30 ; Times: 9
+	Date: 2019-03-31 ; Times: 9
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-18 ; Times: 8
+	Date: 2019-03-19 ; Times: 16
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 15
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-02 ; Times: 8
+	Date: 2019-03-12 ; Times: 6
+	Date: 2019-03-13 ; Times: 11
+	Date: 2019-03-10 ; Times: 10
+	Date: 2019-03-11 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Antilocapra americana)" ; Times: 1
+	Query: "specificepithet:haliaetus genus:Pandion country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Leptodon cayanensis mappable:1" ; Times: 1
+	Query: "buteogallus anthracinus" ; Times: 2
+	Query: "Dromococcyx hastissue:1" ; Times: 1
+	Query: "genus:psarocolius hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficollis genus:micrastur" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "Columbina minuta hastissue:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "vntype:specimen order:Dinornithiformes AND (skeleton) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "porcher island" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:nivalis genus:Plectrophenax year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "amphispiza tortugae" ; Times: 1
+	Query: "stateprovince:&#34;NM&#34;" ; Times: 2
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Gygis hastissue:1" ; Times: 1
+	Query: "family:Bucconidae preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colaptes auratus rufipileus" ; Times: 1
+	Query: "Troglodytes tanneri" ; Times: 1
+	Query: "Lutra longicaudis mappable:1" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Sturnella magna month &gt;= 4 month &lt;= 6 hastissue:1" ; Times: 2
+	Query: "20284" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lorius domicella" ; Times: 3
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "specificepithet:ochrogaster genus:microtus hastissue:1" ; Times: 2
+	Query: "Peromyscus santarosae" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "aimophila spadiconigrescens" ; Times: 1
+	Query: "Guadalupe Island AND Anthony" ; Times: 1
+	Query: "specificepithet:subis genus:Progne stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:trichas year &gt;= 1909 year &lt;= 1909" ; Times: 2
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "Amazona auropalliata hastissue:1" ; Times: 1
+	Query: "specificepithet:bewickii genus:thryomanes hastissue:1" ; Times: 5
+	Query: "specificepithet:montezuma genus:psarocolius hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:UCLA" ; Times: 3
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "nyctibius grandis" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Coeligena conradii" ; Times: 4
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "21113" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Carpodacus year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "Ara macao mappable:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "santarosae" ; Times: 1
+	Query: "genus:Calcarius year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Picoides stricklandi vntype:specimen country:&#34;Mexico&#34; AND (arizonae)" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Guadalupe AND Anthony" ; Times: 1
+	Query: "vntype:specimen genus:Rynchops hastissue:1" ; Times: 2
+	Query: "Nyctidromus albicollis hastissue:1" ; Times: 1
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 2
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 3
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Colaptes rufipileus" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:UCLA" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "Eumops auripendulus" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "Spilogale santarosae" ; Times: 1
+	Query: "genus:Passer country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus county:&#34;Inyo&#34;" ; Times: 2
+	Query: "genus:myadestes country:&#34;costa rica&#34;" ; Times: 2
+	Query: "spizella wortheni" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "genus:Dasypus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Quiscalus nicaraguensis" ; Times: 1
+	Query: "Amazona autumnalis hastissue:1" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 2
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida country:&#34;Mexico&#34; year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Loriculus beryllinus" ; Times: 3
+	Query: "Paradipus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Centropus hastissue:1" ; Times: 1
+	Query: "Melanerpes formicivorus striatipectus" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex county:&#34;Monterey&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "Tamandua mexicana" ; Times: 9
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "campylorhynchus purus" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "order:Dinornithiformes AND (egg)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maine" ; Times: 4
+	Query: "genus:Aratinga hassex:1 hastissue:1" ; Times: 1
+	Query: "dipodomys ingens" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "Tinamiformes vntype:specimen preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "specificepithet:viridipallens genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Amazona ochrocephala tresmariae" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "37157" ; Times: 1
+	Query: "numenius borealis" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "15384" ; Times: 1
+	Query: "genus:Pyrrhura hassex:1 hastissue:1" ; Times: 2
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "jacksonii stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Isla Guadalupe AND 1913" ; Times: 1
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "genus:Cypseloides class:Aves hastissue:1" ; Times: 1
+	Query: "Guadalupe Island AND Anthony AND 1897" ; Times: 1
+	Query: "Guadalupe Island AND Anthony AND 1896" ; Times: 1
+	Query: "Thryomanes sissonii" ; Times: 2
+	Query: "genus:dendragapus year &gt;= 1921 year &lt;= 1921" ; Times: 1
+	Query: "39771" ; Times: 1
+	Query: "Morococcyx hastissue:1" ; Times: 2
+	Query: "genus:antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:ruficapillus class:Aves hastissue:1" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Anous hastissue:1" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 3
+	Query: "amphispiza pacifica" ; Times: 2
+	Query: "stateprovince:&#34;AK&#34;" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen locality:Cana" ; Times: 1
+	Query: "Quiscalus major hastissue:1" ; Times: 1
+	Query: "buteogallus urubitinga" ; Times: 1
+	Query: "thryothorus oblitus" ; Times: 1
+	Query: "buteogallus urubitinga hastissue:1" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ossifragus genus:Corvus family:Corvidae hastissue:1" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "Melanerpes uropygialis mcz" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Massachusetts" ; Times: 4
+	Query: "amphispiza cana" ; Times: 4
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo hastypestatus:1" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Dromococcyx" ; Times: 1
+	Query: "specificepithet:sybillae genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 3
+	Query: "Accipiter striatus chionogaster" ; Times: 1
+	Query: "specificepithet:gayi genus:Phrygilus class:Aves hastissue:1" ; Times: 1
+	Query: "Isla Guadalupe AND 1906" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1281 download events in this period)
+Total number of records downloaded: 3380
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 63
+	Country: United Kingdom ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-22 ; Times: 6
+	Date: 2019-03-21 ; Times: 5
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 5
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 11
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-13 ; Times: 4
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americana sierrae genus:martes" ; Times: 1
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "genus:Pyrrhura hassex:1 hastissue:1" ; Times: 2
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:sybillae genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "vntype:specimen family:Canidae institutioncode:UCLA" ; Times: 1
+	Query: "family:Eurylaimidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:nectariniidae (alcohol OR alc)" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (alcohol OR alc)" ; Times: 1
+	Query: "vntype:specimen family:Meliphagidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus year &lt;= 1920" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Loriculus beryllinus" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Amazona hassex:1 hastissue:1" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Paradipus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Centropus hastissue:1" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "Artibeus inopinatus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:UCLA" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "genus:Aratinga hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lorius domicella" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (alcohol OR alc)" ; Times: 1
+	Query: "vntype:specimen family:Nectariniidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "specificepithet:viridipallens genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;washington&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:erminea arctica genus:mustela" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "family:Meliphagidae (wet OR alcohol OR alc OR fluid)" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
