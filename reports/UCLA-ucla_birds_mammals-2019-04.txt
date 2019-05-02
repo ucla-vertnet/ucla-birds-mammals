@@ -1,0 +1,471 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 436
+Number of records retrieved in searches: 6492
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 95
+	Country: Canada ; Times: 7
+	Country: Israel ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Poland ; Times: 2
+	Country: Guatemala ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 243
+	Country: Belgium ; Times: 37
+	Country: Sweden ; Times: 11
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 15
+	Date: 2019-04-19 ; Times: 25
+	Date: 2019-04-18 ; Times: 22
+	Date: 2019-04-05 ; Times: 19
+	Date: 2019-04-13 ; Times: 4
+	Date: 2019-04-12 ; Times: 42
+	Date: 2019-04-11 ; Times: 22
+	Date: 2019-04-10 ; Times: 22
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 12
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 11
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 17
+	Date: 2019-04-02 ; Times: 20
+	Date: 2019-04-03 ; Times: 10
+	Date: 2019-04-06 ; Times: 15
+	Date: 2019-04-04 ; Times: 45
+	Date: 2019-04-23 ; Times: 23
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 5
+	Date: 2019-04-26 ; Times: 11
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 25
+	Date: 2019-04-25 ; Times: 5
+	Date: 2019-04-28 ; Times: 20
+	Date: 2019-04-29 ; Times: 15
+	Date: 2019-04-08 ; Times: 9
+	Date: 2019-04-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "lanius grinnelli" ; Times: 1
+	Query: "recordnumber:13075 institutioncode:UCLA" ; Times: 2
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "gbifdatasetid:8631295a-f762-11e1-a439-00145eb45e9a" ; Times: 3
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "Potos flavus mappable:1" ; Times: 3
+	Query: "Leptodon cayanensis mappable:1" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "genus:Lutra family:Mustelidae order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "UCLA 21946" ; Times: 3
+	Query: "Cairina moschata  mappable:1" ; Times: 1
+	Query: "locality:willow creek county:&#34;lassen&#34;" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia sex:male year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:roseogularis genus:Piranga year &gt;= 1945" ; Times: 1
+	Query: "genus:Colinus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 6
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "Sonora taylori" ; Times: 1
+	Query: "genus:Ardeola hastissue:1" ; Times: 2
+	Query: "aphriza virgata hastissue:1" ; Times: 1
+	Query: "Eumops perotis mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:21722 institutioncode:UCLA" ; Times: 1
+	Query: "UCLA-H 707" ; Times: 1
+	Query: "specificepithet:hispidus genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ara macao" ; Times: 3
+	Query: "gypaetus barbatus" ; Times: 2
+	Query: "Diphylla ecaudata mappable:1" ; Times: 3
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;WA&#34;" ; Times: 2
+	Query: "Sonora fasciata" ; Times: 1
+	Query: "genus:Aplodontia institutioncode:UCLA" ; Times: 1
+	Query: "primates costa rica" ; Times: 2
+	Query: "Mazama americana" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 2
+	Query: "UCLA 22831" ; Times: 2
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "glaucomys oregonensis" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "Orcinus" ; Times: 1
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "catalognumber:571 institutioncode:UCLA" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:34773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "class:Aves catalognumber:38120 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Salpinctes class:Aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "genus:electron hastissue:1" ; Times: 2
+	Query: "genus:Lepus county:&#34;Los Angeles&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Carpodacus class:Aves year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "specificepithet:concolor family:Felidae order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:UCLA" ; Times: 1
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dickey locality:Pasadena institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "icterus pustuloides" ; Times: 1
+	Query: "turdus benti" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "order:primates institutioncode:UCLA" ; Times: 5
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "contopus peninsulae" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "locality:herron county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:querula genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "catalognumber:4727 institutioncode:UCLA" ; Times: 1
+	Query: "Chironectes minimus mappable:1" ; Times: 3
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "Melanerpes aurifrons hastissue:1" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "UCLA 22830" ; Times: 2
+	Query: "specificepithet:bellii genus:Vireo class:Aves year &gt;= 1914 year &lt;= 1914" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes preparations:alcohol" ; Times: 2
+	Query: "51361" ; Times: 1
+	Query: "class:Aves catalognumber:26201 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Stercorarius hastissue:1" ; Times: 3
+	Query: "agelaius tricolor hastissue:1" ; Times: 1
+	Query: "Corvus ossifragus vntype:specimen hastissue:1" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:UCLA" ; Times: 1
+	Query: "rallus crepitans vntype:specimen hastissue:1" ; Times: 1
+	Query: "Rhynchonycteris naso mappable:1" ; Times: 2
+	Query: "salpinctes tenuirostris" ; Times: 2
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:chrysopeplus aurantiacus genus:Pheucticus" ; Times: 1
+	Query: "county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "Botaurus pinnatus  mappable:1" ; Times: 1
+	Query: "specificepithet:purpurea genus:Ardea hastissue:1" ; Times: 1
+	Query: "locality:herron" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor family:felidae order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2592 institutioncode:UCLA" ; Times: 3
+	Query: "Theristicus caerulescens" ; Times: 2
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "catalognumber:2594 institutioncode:UCLA" ; Times: 3
+	Query: "vntype:specimen genus:mephitis institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Trachops cirrhosus mappable:1" ; Times: 2
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sciurus carolinensis hastissue:1" ; Times: 4
+	Query: "genus:rattus institutioncode:UCLA" ; Times: 1
+	Query: "recordnumber:6993 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:UCLA" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 2
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "class:Aves catalognumber:35210 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Reithrodontomys county:&#34;San Diego&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:Bonasa stateprovince:&#34;Wisconsin&#34; hastissue:1" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "Basileuterus culicivorus mappable:1" ; Times: 2
+	Query: "calcarius pictus hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:24109 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 2
+	Query: "genus:Reithrodontomys institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:38 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Microtus institutioncode:UCLA" ; Times: 3
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Molothrus ater californicus" ; Times: 1
+	Query: "Quiscalus institutioncode:UCLA" ; Times: 3
+	Query: "stateprovince:&#34;NY&#34; hastissue:1" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UCLA" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "Pteronotus gymnonotus mappable:1" ; Times: 3
+	Query: "recordnumber:2575 institutioncode:UCLA" ; Times: 1
+	Query: "class:Aves catalognumber:36623 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:formicarius hastissue:1" ; Times: 1
+	Query: "order:Accipitriformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Amazona autumnalis hastissue:1" ; Times: 1
+	Query: "specificepithet:mephitis genus:mephitis county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "genus:Microtus locality:BLUFF LAKE institutioncode:UCLA" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:17204 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:fuscicauda salvini genus:Habia year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos order:Carnivora class:Mammalia hastissue:1" ; Times: 1
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Peromyscus avius" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 3
+	Query: "genus:Mephitis institutioncode:UCLA" ; Times: 1
+	Query: "zonotrichia querula hastissue:1" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "50360 Aves" ; Times: 1
+	Query: "Cypseloides niger vntype:specimen hastissue:1" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "Cochlearius cochlearius mappable:1" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eumops auripendulus mappable:1" ; Times: 3
+	Query: "class:Aves catalognumber:31360 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "phyllotis caprinus" ; Times: 3
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "genus:Dipodomys institutioncode:UCLA" ; Times: 8
+	Query: "class:Aves catalognumber:34775 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2633 institutioncode:UCLA" ; Times: 2
+	Query: "terpsiphone incei" ; Times: 5
+	Query: "Glaucomys sabrinus county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "UCLA 22832" ; Times: 2
+	Query: "UCLA 22833" ; Times: 2
+	Query: "Egretta tricolor vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Didelphis locality:Oak Knoll institutioncode:UCLA" ; Times: 1
+	Query: "genus:Enhydra family:Mustelidae order:Carnivora institutioncode:UCLA" ; Times: 2
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Streptopelia hastissue:1" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Himatione hastissue:1" ; Times: 2
+	Query: "Accipiter superciliosus" ; Times: 1
+	Query: "county:&#34;pinal&#34; stateprovince:&#34;az&#34;" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina year &gt;= 1960 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "specificepithet:vociferus genus:Caprimulgus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen hastissue:1 Myrmotherula schisticolor" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saccopteryx leptura mappable:1" ; Times: 3
+	Query: "specificepithet:nayaritensis genus:Sciurus hastissue:1" ; Times: 1
+	Query: "tyrannus forficatus hastissue:1" ; Times: 1
+	Query: "catalognumber:2616 institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:latrans family:Canidae order:Carnivora institutioncode:UCLA" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UCLA" ; Times: 1
+	Query: "Chrotopterus auritus mappable:1" ; Times: 3
+	Query: "mustela nigripes" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;King&#34; stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "genus:Catharacta hastissue:1" ; Times: 1
+	Query: "cypseloides niger hastissue:1" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 6
+	Query: "institutioncode:UCLA" ; Times: 4
+	Query: "specificepithet:arizonensis genus:Sciurus hastissue:1" ; Times: 1
+	Query: "catalognumber:2632 institutioncode:UCLA" ; Times: 2
+	Query: "16987" ; Times: 1
+	Query: "catalognumber:7871 institutioncode:UCLA" ; Times: 1
+	Query: "Coturnicops noveboracensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;NC&#34;" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "specificepithet:chrysopeplus dilutus genus:Pheucticus year &gt;= 1945" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Ammodramus henslowii vntype:specimen hastissue:1" ; Times: 2
+	Query: "rallus elegans vntype:specimen hastissue:1" ; Times: 1
+	Query: "Agriocharis ocellata Mexico" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "UCLA 21945" ; Times: 2
+	Query: "Onychorhynchus coronatus" ; Times: 9
+	Query: "Agriocharis ocellata" ; Times: 1
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Microtus locality:BLUFF LAKE sex:Female institutioncode:UCLA" ; Times: 1
+	Query: "class:Aves catalognumber:37100 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1772 institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:7140 institutioncode:UCLA" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "catalognumber:2617 institutioncode:UCLA" ; Times: 2
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "vuples velox" ; Times: 1
+	Query: "Carollia castanea" ; Times: 3
+	Query: "specificepithet:niger genus:cypseloides hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 6 hastissue:1" ; Times: 1
+	Query: "catalognumber:2575 institutioncode:UCLA" ; Times: 2
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "class:Aves catalognumber:37099 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Ploceidae (fluid OR alcohol)" ; Times: 1
+	Query: "stateprovince:&#34;NM&#34; hastissue:1" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "specificepithet:rufescens genus:Egretta hastissue:1" ; Times: 2
+	Query: "(cyanocorax) hastissue:1" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "genus:dipodomys locality:herron county:&#34;san bernardino&#34;" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "Laterallus jamaicensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen institutioncode:UCLA" ; Times: 1
+	Query: "18900" ; Times: 1
+	Query: "catalognumber:11477 institutioncode:UCLA" ; Times: 1
+	Query: "Quiscalus mexicanus ucla" ; Times: 3
+	Query: "Micronycteris megalotis mappable:1" ; Times: 3
+	Query: "stateprovince:&#34;CA&#34;" ; Times: 2
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "order:Carnivora institutioncode:UCLA" ; Times: 3
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 91 (out of 1263 download events in this period)
+Total number of records downloaded: 65305
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 12
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 65
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 8
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-11 ; Times: 4
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 5
+	Date: 2019-04-22 ; Times: 7
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-02 ; Times: 17
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cryptotis mexicana" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Dipodomys merriami parvus" ; Times: 2
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "county:&#34;Loreto&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Minnesota&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Washington" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Minnesota" ; Times: 1
+	Query: "order:Falconiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1880 year &lt;= 1950" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Nevada" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "vntype:specimen specificepithet:americanus genus:lepus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Arizona" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Alaska" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "order:Accipitriformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:flavus genus:Potos order:Carnivora class:Mammalia hastissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wisconsin" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "specificepithet:lupus baileyi genus:Canis" ; Times: 1
+	Query: "phyllotis caprinus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "california ground squirrel" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "institutioncode:UCLA" ; Times: 1
+	Query: "vntype:specimen family:Cracidae hasmass:1" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "primates costa rica" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Illinois" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Ploceidae (fluid OR alcohol)" ; Times: 1
+	Query: "specificepithet:nana genus:aratinga" ; Times: 1
+	Query: "(cyanocorax) hastissue:1" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Quiscalus mexicanus ucla" ; Times: 1
+
+
+End of report.
