@@ -1,0 +1,843 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1097
+Number of records retrieved in searches: 21625
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 633
+	Country: Italy ; Times: 35
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Denmark ; Times: 36
+	Country: Finland ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 92
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 247
+	Country: Argentina ; Times: 7
+	Country: Dominican Republic ; Times: 1
+	Country: Brazil ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-28 ; Times: 28
+	Date: 2019-08-29 ; Times: 23
+	Date: 2019-08-01 ; Times: 35
+	Date: 2019-08-02 ; Times: 21
+	Date: 2019-08-03 ; Times: 13
+	Date: 2019-08-05 ; Times: 95
+	Date: 2019-08-06 ; Times: 21
+	Date: 2019-08-07 ; Times: 32
+	Date: 2019-08-08 ; Times: 53
+	Date: 2019-08-09 ; Times: 16
+	Date: 2019-08-24 ; Times: 7
+	Date: 2019-08-25 ; Times: 4
+	Date: 2019-08-22 ; Times: 16
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 42
+	Date: 2019-08-21 ; Times: 14
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 40
+	Date: 2019-08-15 ; Times: 94
+	Date: 2019-08-14 ; Times: 252
+	Date: 2019-08-13 ; Times: 18
+	Date: 2019-08-12 ; Times: 52
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 81
+	Date: 2019-08-19 ; Times: 40
+	Date: 2019-08-18 ; Times: 76
+	Date: 2019-08-26 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "specificepithet:nitratoides genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Calypte costae AND Island NOT BAja" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "gbifdatasetid:8631295a-f762-11e1-a439-00145eb45e9a" ; Times: 7
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Aramides cajanea" ; Times: 1
+	Query: "family:Canidae institutioncode:UCLA" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 1
+	Query: "specificepithet:californicus genus:microtus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 4
+	Query: "family:Alcidae locality:Coronados country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Anthropoides virgo" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "specificepithet:littoralis genus:urocyon order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "glaucomys volans vntype:specimen stateprovince:&#34;Massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Myiornis atricapillus" ; Times: 1
+	Query: "Gygis alba" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amazilia violiceps" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(32.3825292929949,-117.0541992271319))&lt;100000" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Phoenicopterus ruber hastissue:1" ; Times: 2
+	Query: "Celeus loricatus" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 1
+	Query: "Bolborhynchus lineola" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Merops pusillus meridionalis hastissue:1" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 8
+	Query: "Pagodroma nivea" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "lonchura striata hastissue:1" ; Times: 2
+	Query: "specificepithet:mexicanus genus:falco year &gt;= 1910 year &lt;= 1915" ; Times: 1
+	Query: "Melanerpes rubricapillus" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "Pittasoma michleri" ; Times: 1
+	Query: "Coeligena torquata" ; Times: 1
+	Query: "order:pilosa preparations:skeleton" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Icterus mesomelas" ; Times: 2
+	Query: "Dives dives" ; Times: 1
+	Query: "turdus benti" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "Buteo japonicus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Leptopogon superciliaris" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 10
+	Query: "order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "Numenius borealis vntype:specimen" ; Times: 1
+	Query: "Fregata minor" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "family:Alcidae locality:Asuncion" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Aulacorhynchus prasinus" ; Times: 1
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "Turdus obsoletus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronados OR Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1913 year &lt;= 1913" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Theristicus caerulescens" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 6
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Anthony" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:eumops order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus NOT Cerorhinca)" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "Sterna antillarum browni" ; Times: 4
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronados OR Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1891" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Ortalis garrula" ; Times: 1
+	Query: "Ramphastos swainsonii" ; Times: 1
+	Query: "specificepithet:phenax genus:spilogale order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:truei genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "order:cingulata preparations:skeleton" ; Times: 3
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "Amazilia rutila" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "specificepithet:marginatus genus:microcerculus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Neotoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(28.111993098115583,-115.23060609586537))&lt;100000" ; Times: 1
+	Query: "Dendrocolaptes sanctithomae" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:penicillatus genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:craveri family:Alcidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 4
+	Query: "family:sciuridae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "genus:felis order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Discosura conversii" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Uria NOT Cerorhinca)" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "Molothrus aeneus" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Pseudoscops clamator" ; Times: 1
+	Query: "specificepithet:marginatus genus:microcerculus country:&#34;honduras&#34;" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 1
+	Query: "Tolmomyias flaviventris" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Coccyzus americanus occidentalis" ; Times: 2
+	Query: "genus:mephitis order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "amazona auropalliata" ; Times: 13
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(32.3825292929949,-117.0541992271319))&lt;38033" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Campephilus haematogaster" ; Times: 1
+	Query: "Spizaetus tyrannus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Charadrius collaris" ; Times: 1
+	Query: "specificepithet:bailleui genus:Loxioides" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 2
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "Calypte costae AND Island NOT Baja NOT Mexico" ; Times: 1
+	Query: "locality:chatham island country:&#34;new zealand&#34;" ; Times: 3
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Nyctibius grandis" ; Times: 2
+	Query: "Thamnophilus doliatus" ; Times: 2
+	Query: "Eremophila alpestris strigata" ; Times: 7
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus order:Passeriformes class:Aves county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "abeillei hastissue:1" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:phoca order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Accipiter country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "oceanites chilensis" ; Times: 1
+	Query: "Vestiaria coccinea" ; Times: 1
+	Query: "Brotogeris jugularis" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 1
+	Query: "Picumnus olivaceus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "Piculus leucolaemus" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Aulacorhynchus haematopygus" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 55
+	Query: "specificepithet:philadelphia genus:oporornis country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 5
+	Query: "Pelecanoides urinatrix" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oceanodroma macrodactyla NOT Anthony AND Brown NOT Bryant" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "Sublegatus modestus" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Sublegatus arenarum" ; Times: 1
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "family:geomyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Brachyramphus OR Micruria OR Synthliboramphus OR Endomychura)" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Icterus chrysater" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "Aulacorhynchus derbianus" ; Times: 1
+	Query: "Thinocorus rumicivorus" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Piaya melanogaster" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:lasiurus order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 2
+	Query: "order:lagomorpha class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Peromyscus truei lagunae" ; Times: 2
+	Query: "Hylopezus fulviventris" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 16
+	Query: "Falco femoralis" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "Thamnophilus atrinucha" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "family:Alcidae locality:san country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "oceanites oceanicus chilensis" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 2
+	Query: "genus:Ammospermophilus county:&#34;Riverside&#34;" ; Times: 4
+	Query: "Toxostoma bendirei hastissue:1" ; Times: 1
+	Query: "Laterallus exilis" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 3
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "specificepithet:callophrys genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "specificepithet:cassinii order:Passeriformes class:Aves county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Turdus assimilis" ; Times: 1
+	Query: "specificepithet:craveri family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "locality:chatham Islands country:&#34;new zealand&#34;" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 4
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "specificepithet:deserti genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Grallaria guatimalensis" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Amaurolimnas concolor" ; Times: 1
+	Query: "Phacellodomus ruber" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Polioptila californica" ; Times: 4
+	Query: "Streptoprocne rutila" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Coronados family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Xiphorhynchus lachrymosus" ; Times: 1
+	Query: "Xiphocolaptes albicollis" ; Times: 1
+	Query: "Nonnula rubecula" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 2
+	Query: "Falco sparverius institutioncode:UCLA" ; Times: 1
+	Query: "Cypseloides cryptus" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Burt AND Island" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "genus:geomys stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "genus:sorex catalognumber:6995" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 2
+	Query: "specificepithet:concolor genus:Amaurospiza" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Pitta nipalensis" ; Times: 1
+	Query: "Todirostrum nigriceps" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 5
+	Query: "Geothlypis semiflava" ; Times: 1
+	Query: "family:cricetidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 6
+	Query: "Xiphorhynchus erythropygius" ; Times: 1
+	Query: "Formicarius nigricapillus" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 1
+	Query: "vntype:specimen genus:Porphyrio hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:8631295a-f762-11e1-a439-00145eb45e9a ucla coyote" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;WA&#34; year &gt;= 1890 year &lt;= 1985" ; Times: 2
+	Query: "family:Alcidae distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;100000" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "genus:dipodomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus county:&#34;imperial&#34;" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "genus:spilogale order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Calidris canutus" ; Times: 2
+	Query: "genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "Gymnocichla nudiceps" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 1
+	Query: "specificepithet:xanthomus genus:Agelaius" ; Times: 3
+	Query: "Hylophylax naevioides" ; Times: 1
+	Query: "Leptotila cassinii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Cranioleuca erythrops" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Porzana flaviventer" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;CALIFORNIA&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:californicus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 2
+	Query: "Thalurania colombica" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "genus:urocyon order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:browni class:aves" ; Times: 2
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:microtus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Myiopagis viridicata" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 2
+	Query: "28574" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Perognathus alticola" ; Times: 12
+	Query: "Colaptes cafer AND Island NOT Canada NOT Washington NOT Alaska NOT Jersey" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "specificepithet:astutus octavus genus:bassariscus" ; Times: 1
+	Query: "genus:felis order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Chlorophonia cyanea" ; Times: 1
+	Query: "Capsiempis flaveola" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "rhodostethia" ; Times: 2
+	Query: "Laterallus melanophaius" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Nesotriccus ridgwayi" ; Times: 2
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:notabilis genus:Nestor" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Calypte costae AND Island" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronados OR Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 2
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "Psarocolius wagleri" ; Times: 1
+	Query: "Oxypogon lindenii" ; Times: 1
+	Query: "Pterodroma defilippiana" ; Times: 5
+	Query: "Odontophorus erythrops" ; Times: 1
+	Query: "genus:lynx order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Oncostoma cinereigulare" ; Times: 1
+	Query: "specificepithet:californicus genus:myotis order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "genus:enhydra order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "family:Alcidae stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leucopternis albicollis" ; Times: 1
+	Query: "Pyrrhura melanura" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Los Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Deconychura longicauda" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "genus:spermophilus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "oceanodroma socorroensis" ; Times: 3
+	Query: "family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 5
+	Query: "Humboldtiana" ; Times: 1
+	Query: "genus:eumetopias order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Spheniscus mendiculus" ; Times: 1
+	Query: "family:tinamidae preparations:skeleton" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "specificepithet:tolmiei genus:oporornis stateprovince:&#34;california&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Emberiza tristrami" ; Times: 1
+	Query: "specificepithet:japonensis genus:Grus" ; Times: 2
+	Query: "Euphonia anneae" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(32.438604699773165,-117.25279245118105))&lt;10709.057169100459" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 45
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Colaptes cafer AND Island NOT Canada NOT Washington NOT Alaska" ; Times: 1
+	Query: "Sittasomus griseicapillus" ; Times: 1
+	Query: "genus:Lonchura  specificepithet:punctulata" ; Times: 1
+	Query: "Scytalopus magellanicus" ; Times: 1
+	Query: "Colaptes cafer AND Island NOT Canada NOT Washington NOT Alaska NOT Jersey NOT Baja" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "genus:spilogale order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:musica genus:euphonia hastissue:1" ; Times: 2
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Philander opossum mappable:1" ; Times: 2
+	Query: "Chironectes minimus mappable:1" ; Times: 2
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Oceanodroma hornbyi" ; Times: 4
+	Query: "Accipiter superciliosus" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Parabuteo unicinctus" ; Times: 1
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "specificepithet:occipitalis genus:chlorophonia hastissue:1" ; Times: 2
+	Query: "Trogon personatus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:mendiculus genus:Spheniscus" ; Times: 2
+	Query: "Tapera naevia" ; Times: 1
+	Query: "order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 16
+	Query: "specificepithet:crinitus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "vntype:specimen specificepithet:jamaicensis genus:laterallus hastissue:1" ; Times: 6
+	Query: "Botaurus pinnatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sanborni genus:leptonycteris preparations:skull" ; Times: 1
+	Query: "Aphelocoma insularis hastissue:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Cariama cristata" ; Times: 1
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington NOT Farallon NOT Alaska NOT Texas" ; Times: 1
+	Query: "specificepithet:percnopterus genus:Neophron" ; Times: 2
+	Query: "39641" ; Times: 1
+	Query: "specificepithet:atrimaxillaris genus:Habia" ; Times: 2
+	Query: "diomedea chatham" ; Times: 2
+	Query: "genus:ammospermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:zalophus order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Automolus ochrolaemus" ; Times: 1
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:tyrannina genus:Cercomacra hastissue:1" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:eremicus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:auropalliata genus:Amazona" ; Times: 3
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:lapponica stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "Eriocnemis cupreoventris" ; Times: 1
+	Query: "genus:myotis order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Sclerurus guatemalensis" ; Times: 1
+	Query: "Leucosticte arctoa" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 1
+	Query: "Crax rubra" ; Times: 1
+	Query: "Porphyrio martinica" ; Times: 4
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia hastissue:1" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 3
+	Query: "specificepithet:fallax genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:homo class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oceanodroma microsoma" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "genus:tadarida order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Pteroglossus torquatus" ; Times: 1
+	Query: "class:aves recordedby:dawson year &gt;= 1912" ; Times: 4
+	Query: "specificepithet:ingens genus:dipodomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:alba genus:Cacatua" ; Times: 2
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington NOT Alaska NOT Texas" ; Times: 2
+	Query: "specificepithet:tolmiei genus:Oporornis stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Synallaxis brachyura" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Elaenia frantzii" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 2
+	Query: "genus:tamias order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Ixoreus naevius AND Island NOT Canada NOT Washington NOT Alaska" ; Times: 1
+	Query: "Prioniturus platurus" ; Times: 2
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "Dendrortyx leucophrys" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Campephilus melanoleucos" ; Times: 1
+	Query: "genus:scapanus class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Lampornis clemenciae" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Colaptes cafer AND Island NOT Canada" ; Times: 1
+	Query: "Dendrocincla fuliginosa" ; Times: 1
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(32.4212064341115,-117.26767731131986))&lt;6315" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus) distance(location,geopoint(31.804540206657705,-116.79674149607308))&lt;100000" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "family:muridae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "specificepithet:agilis genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oceanites oceanicus" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Euphonia minuta" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 2
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "catalognumber:13528 institutioncode:UCLA" ; Times: 1
+	Query: "Tolmomyias assimilis" ; Times: 1
+	Query: "specificepithet:sanborni genus:Leptonycteris" ; Times: 2
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Ciccaba nigrolineata" ; Times: 1
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "genus:thomomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Elaenia flavogaster" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "specificepithet:fuscipes genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Ortalis cinereiceps" ; Times: 1
+	Query: "Colinus cristatus" ; Times: 1
+	Query: "Anthus richardi" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "genus:procyon order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Baryphthengus ruficapillus" ; Times: 1
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "Hylopezus dives" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "Pygarrhichas albogularis" ; Times: 1
+	Query: "macrodactyla AND Guadalupe" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(32.423110802196426,-117.26568604353815))&lt;38033.17030780991" ; Times: 1
+	Query: "Anous minutus" ; Times: 1
+	Query: "genus:reithrodontomys order:rodentia class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:onychomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Zimmerius vilissimus" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Rhynchocyclus brevirostris" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Selenidera spectabilis" ; Times: 1
+	Query: "wapacuthu genus:Bubo hastissue:1" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "specificepithet:formosus genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen hastissue:1" ; Times: 2
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 2
+	Query: "Neotoma lepida arenacea" ; Times: 1
+	Query: "Laterallus albigularis" ; Times: 1
+	Query: "Monasa morphoeus" ; Times: 1
+	Query: "Vireo bellii" ; Times: 6
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "Colaptes cafer AND Island" ; Times: 1
+	Query: "Selenidera maculirostris" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "specificepithet:longimembris genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "numenius borealis" ; Times: 5
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "crax rubra" ; Times: 6
+	Query: "hyperacrius" ; Times: 2
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "Tamandua mexicana NOT Brazil" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Rhynchortyx cinctus" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "Colaptes cafer AND Island NOT Canada NOT Washington" ; Times: 1
+	Query: "Oporornis agilis" ; Times: 1
+	Query: "genus:mus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Pseudoleistes virescens" ; Times: 1
+	Query: "Strix occidentalis caurina" ; Times: 9
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:mustela order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:californicus genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 13
+	Query: "Chaetura chapmani" ; Times: 1
+	Query: "specificepithet:boylii genus:peromyscus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 7
+	Query: "Homo sapiens" ; Times: 1
+	Query: "Hemignathus obscurus" ; Times: 6
+	Query: "Trogon rufus" ; Times: 1
+	Query: "genus:tylomys hastissue:1" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "specificepithet:panamintinus genus:dipodomys family:heteromyidae order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon order:carnivora class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Cacicus uropygialis" ; Times: 1
+	Query: "Loxioides bailleui" ; Times: 1
+	Query: "genus:perognathus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "Malacoptila panamensis" ; Times: 1
+	Query: "Loxioides" ; Times: 2
+	Query: "Larus modestus" ; Times: 2
+	Query: "Phaenostictus mcleannani" ; Times: 1
+	Query: "Lepidocolaptes souleyetii" ; Times: 1
+	Query: "genus:glaucomys order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:neotoma order:rodentia class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Chauna chavaria" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 1034 download events in this period)
+Total number of records downloaded: 3245
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 54
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-05 ; Times: 12
+	Date: 2019-08-28 ; Times: 5
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-25 ; Times: 6
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 11
+	Date: 2019-08-21 ; Times: 3
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-12 ; Times: 4
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "crax rubra" ; Times: 4
+	Query: "mimon cozumelae" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "family:Canidae institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1920 year &lt;= 1929" ; Times: 2
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "oceanodroma socorroensis" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Thryomanes bewickii vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus county:&#34;Tillamook&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "family:tinamidae preparations:skeleton" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "Potos" ; Times: 1
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "Agelaius xanthomus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "specificepithet:sanborni genus:leptonycteris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "Diglossa" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "wapacuthu genus:Bubo hastissue:1" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "genus:Lynx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "artibeus toltecus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:celata genus:vermivora stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "dipodomys nelsoni" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "psophia" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Macrotus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "centurio senex" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Dendrortyx leucophrys" ; Times: 1
+	Query: "Falco sparverius institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:astutus genus:bassariscus county:&#34;imperial&#34;" ; Times: 1
+
+
+End of report.
