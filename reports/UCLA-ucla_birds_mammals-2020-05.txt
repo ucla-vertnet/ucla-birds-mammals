@@ -1,0 +1,337 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 2392
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 11
+	Country: Ireland ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: United States ; Times: 170
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: France ; Times: 8
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 12
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 8
+	Date: 2020-05-26 ; Times: 8
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 10
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 7
+	Date: 2020-05-13 ; Times: 12
+	Date: 2020-05-14 ; Times: 18
+	Date: 2020-05-15 ; Times: 9
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 4
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 15
+	Date: 2020-05-07 ; Times: 68
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-03 ; Times: 6
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Doryfera country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:UCLA" ; Times: 1
+	Query: "MCZ R-9570" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "toxostoma candidum" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:male" ; Times: 1
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Chica)" ; Times: 4
+	Query: "18482" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Branscomb county:&#34;mendocino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "sittasomus jaliscensis" ; Times: 2
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ucla) AND (NOT Boca )" ; Times: 1
+	Query: "toxostoma rubricatum" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ucla) AND (NOT Chica)" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus institutioncode:UCLA" ; Times: 1
+	Query: "Glaucomys sabrinus stateprovince:&#34;California&#34; institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:female" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "gypaetus" ; Times: 1
+	Query: "specificepithet:raviventris genus:reithrodontomys hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "&#34;San Pedro Martir&#34; class:Aves year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Salpinctes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:californicus genus:peromyscus institutioncode:UCLA" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "genus:Micrathene stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:variegatus genus:Spermophilus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "glaucomys sabrinus institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "class:aves stateprovince:&#34;TX&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis hastissue:1" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "genus:Pica county:&#34;Ventura&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:melanurus genus:ramphocaenus hasmass:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:male" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas sex:male" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "San pedro Martir class:aves hastissue:1" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "ucla 19722" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:male" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:female" ; Times: 1
+	Query: "glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34; institutioncode:UCLA" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Rheomys hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:male" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "Oryzomys palustris texensis county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Skin-50689" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca OR Boco)" ; Times: 1
+	Query: "Sayornis aquatica" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:male" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "specificepithet:gentilis county:&#34;cochise&#34;" ; Times: 1
+	Query: "aimophila sororia" ; Times: 2
+	Query: "Catharus 692" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "stateprovince:&#34;TN&#34;" ; Times: 1
+	Query: "genus:Onychomys county:&#34;Los Angeles&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; (ucla)" ; Times: 1
+	Query: "catalognumber:27515 institutioncode:UCLA" ; Times: 1
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:female" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 12
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "&#34;Anas rubripes&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "AK 9175" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+	Query: "33042" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34; AND &#34;adult&#34; OR &#34;mature&#34; OR &#34;ad&#34;)" ; Times: 1
+	Query: "ucla 19721" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "Peromyscus leucopus texanus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:Sorex county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca)" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubripes genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:audubonii county:&#34;Sacramento&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Peromyscus leucopus texanus locality:Brownsville county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; AND (NOT Boca )" ; Times: 2
+	Query: "12549" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:immature sex:female" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "Icterus Salvinii Costa Rica" ; Times: 1
+	Query: "&#34;San Pedro Martir&#34; class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "ucla 19758" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "melozone grisior" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 4
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:San Clemente hastissue:1" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:female" ; Times: 1
+	Query: "locality:branscomb county:&#34;mendocino&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:female" ; Times: 1
+	Query: "Icterus Salvinii" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "Progne subis ws OR wingspan OR wing+span" ; Times: 8
+	Query: "Leptodon cayanensis" ; Times: 6
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "Quiscalus quiscala" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "39437 bird" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:Obsoletus genus:Salpinctes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Sylvilagus county:&#34;Sacramento&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Aimophila stateprovince:&#34;baja california&#34; country:&#34;mexico&#34;" ; Times: 3
+	Query: "ucla 19760" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys hastissue:1" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 1106 download events in this period)
+Total number of records downloaded: 3943
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 50
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 9
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-03 ; Times: 5
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 12
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-13 ; Times: 6
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "specificepithet:alpinus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Perognathus flavescens" ; Times: 1
+	Query: "peromyscus melanotis" ; Times: 1
+	Query: "order:Rodentia stateprovince:Nevada" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "order:Chiroptera county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &lt;= 1947" ; Times: 1
+	Query: "Glaucomys sabrinus stateprovince:&#34;California&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Geotrygon chrysia" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Eira" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Mus hasmass:1" ; Times: 2
+	Query: "Martes caurina" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34; institutioncode:UCLA" ; Times: 2
+	Query: "Peropteryx macrotis" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
