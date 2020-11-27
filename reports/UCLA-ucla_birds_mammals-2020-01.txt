@@ -1,0 +1,432 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 275
+Number of records retrieved in searches: 3232
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 218
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: El Salvador ; Times: 6
+	Country: Denmark ; Times: 2
+	Country: Cuba ; Times: 6
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 14
+	Date: 2020-01-03 ; Times: 6
+	Date: 2020-01-02 ; Times: 7
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-04 ; Times: 5
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-09 ; Times: 16
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-25 ; Times: 20
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 13
+	Date: 2020-01-26 ; Times: 11
+	Date: 2020-01-29 ; Times: 10
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 8
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-14 ; Times: 12
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-30 ; Times: 20
+	Date: 2020-01-17 ; Times: 9
+	Date: 2020-01-10 ; Times: 7
+	Date: 2020-01-11 ; Times: 27
+	Date: 2020-01-12 ; Times: 6
+	Date: 2020-01-13 ; Times: 20
+	Date: 2020-01-31 ; Times: 9
+	Date: 2020-01-16 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "psaltriparus minimus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "locality:Los Bancos " ; Times: 1
+	Query: "Potos flavus mappable:1" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;Clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "UCLA 10522" ; Times: 2
+	Query: "specificepithet:pictus genus:Calcarius hastissue:1" ; Times: 1
+	Query: "Dipodomys simulans vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1897" ; Times: 2
+	Query: "Thryomanes AND Cruz Island AND 1914 NOT Holmgren" ; Times: 1
+	Query: "sitta carolinensis hastissue:1 country:Mexico" ; Times: 1
+	Query: "picoides arcticus hastissue:1" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen" ; Times: 2
+	Query: "castanea Carollia" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "Kathy Molina" ; Times: 1
+	Query: "genus:Lorius hastissue:1" ; Times: 2
+	Query: "Thryomanes AND Clemente Island AND 1924" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "Peucedramus taeniatus hastissue:1 country:Mexico" ; Times: 1
+	Query: "33744" ; Times: 1
+	Query: "class:aves locality:crater lake stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ptilogonys OR Ptiliogonys cinereus hastissue:1 country:Mexico" ; Times: 1
+	Query: "specificepithet:henslowii class:aves hastissue:1" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1920" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1908 NOT Linton" ; Times: 1
+	Query: "genus:pipistrellus stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "specificepithet:yumanensis genus:myotis locality:fort tejon county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:hesperus genus:pipistrellus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "toxostoma rubricatum" ; Times: 1
+	Query: "ucla canis familiaris" ; Times: 2
+	Query: "class:Aves locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "graciae aves hastissue:1 country:mexico" ; Times: 1
+	Query: "Cedros AND Thryomanes" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "12356" ; Times: 1
+	Query: "amazilia beryllina hastissue:1 country:Mexico" ; Times: 1
+	Query: "specificepithet:pardalis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1930" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1897 NOT Grinnell" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:UCLA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1909" ; Times: 1
+	Query: "Eupherusa egregia" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:Spizaetus hastissue:1" ; Times: 2
+	Query: "Eurynorhynchus pygmaeus alcohol" ; Times: 1
+	Query: "Euphonia elegantissima hastissue:1 country:Mexico" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 3
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 2
+	Query: "locality:blue lake county:&#34;lake&#34;" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "specificepithet:rufus genus:Lynx county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Thryomanes AND Clemente Island" ; Times: 2
+	Query: "specificepithet:yumanensis genus:myotis locality:old fort tejon county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "13990" ; Times: 2
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:Griepentrog basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "moho nobilis" ; Times: 2
+	Query: "Vireo plumbeus hastissue:1 country:Mexico" ; Times: 1
+	Query: "catalognumber:15086 institutioncode:UCLA" ; Times: 1
+	Query: "class:Mammalia locality:Idyllwild county:&#34;Riverside&#34;" ; Times: 1
+	Query: "nestor notabilis" ; Times: 2
+	Query: "Eurynorhynchus pygmaeus" ; Times: 1
+	Query: "haematotis" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1908" ; Times: 1
+	Query: "genus:Procyon stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "amazilia hoffmanni" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Loxia curvirostra hastissue:1 country:Mexico" ; Times: 1
+	Query: "selasphorus platycercus hastissue:1 country:Mexico" ; Times: 1
+	Query: "genus:plecotus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus hastissue:1" ; Times: 1
+	Query: "Vireo huttoni hastissue:1 country:Mexico" ; Times: 1
+	Query: "Accipiter hastypestatus:1" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "Melanitta deglandi hastissue:1" ; Times: 1
+	Query: "Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "ateles geoffroyi el salvador" ; Times: 4
+	Query: "leptotila verreauxi hastissue:1 country:Mexico" ; Times: 1
+	Query: "Thryomanes AND San Clemente Island" ; Times: 1
+	Query: "Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Troglodytes aedon hastissue:1 country:Mexico" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:Leucopternis hastissue:1" ; Times: 1
+	Query: "Lepidocolaptes leucogaster hastissue:1 country:Mexico" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1916" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1914" ; Times: 1
+	Query: "specificepithet:putorius genus:spilogale class:mammalia institutioncode:UCLA" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:cantwell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "parus OR poecile sclateri hastissue:1 country:Mexico" ; Times: 1
+	Query: "Parulidae graciae country:Mexico hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:leschenaulti genus:Enicurus class:Aves hastissue:1" ; Times: 1
+	Query: "vireo bellii hastissue:1" ; Times: 2
+	Query: "Accipiter striatus AND Cruz Island" ; Times: 1
+	Query: "stateprovince:&#34;MS&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "specificepithet:evotis genus:myotis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "toxostoma candidum" ; Times: 1
+	Query: "stateprovince:&#34;NV&#34;" ; Times: 2
+	Query: "abrocoma" ; Times: 1
+	Query: "genus:lynx family:felidae county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:mugimaki genus:Ficedula class:Aves hastissue:1" ; Times: 1
+	Query: "baeolophus OR parus wollweberi hastissue:1 country:Mexico" ; Times: 1
+	Query: "institutioncode:ucla" ; Times: 1
+	Query: "genus:myotis yumanensis locality:fort tejon county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "mimon bennettii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "columba fasciata hastissue:1 country:Mexico" ; Times: 2
+	Query: "Oceanites oceanicus hastissue:1" ; Times: 2
+	Query: "Turdus assimilis hastissue:1 country:Mexico" ; Times: 1
+	Query: "Cedros AND Thryomanes NOT Tose" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:Tadarida county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "35114" ; Times: 2
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thryomanes AND Cedros" ; Times: 2
+	Query: "39597" ; Times: 2
+	Query: "Lepidocolaptes affinis hastissue:1 country:Mexico" ; Times: 1
+	Query: "picoides dorsalis hastissue:1" ; Times: 1
+	Query: "neoxenus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1910 NOT Grinnell" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "specificepithet:longirostris genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 1
+	Query: "ucla anacapa" ; Times: 2
+	Query: "ucla 2858" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "vireo bellii kansas hastissue:1" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "aves parulidae goldmani" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "homo sapiens" ; Times: 1
+	Query: "genus:spilogale class:mammalia institutioncode:UCLA" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides hastissue:1" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1985 hastissue:1" ; Times: 1
+	Query: "Dipodomys vntype:specimen institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1915 AND HOwell" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Thryomanes AND Catalina Island" ; Times: 1
+	Query: "vireo griseus hastissue:1" ; Times: 1
+	Query: "genus:felis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "genus:myotis yumanensis locality:old fort tejon county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen" ; Times: 2
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 4
+	Query: "18975" ; Times: 2
+	Query: "vntype:specimen specificepithet:tigrinus genus:Lanius class:Aves hastissue:1" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1914" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1911" ; Times: 1
+	Query: "Cedros AND Thryomanes NOT Tose AND Tafall" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "myioborus pictus country:mexico hastissue:1" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus hastissue:1" ; Times: 1
+	Query: "columba OR patagioenas fasciata hastissue:1 country:Mexico" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "certhia americana hastissue:1 country:Mexico" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "mimon bennettii" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1910" ; Times: 2
+	Query: "Thryomanes AND Catalina Island AND 1911" ; Times: 1
+	Query: "Cardellina OR Ergaticus versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "Ateles geoffroyi locality:Olomega" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Guadalupe AND Thryomanes" ; Times: 1
+	Query: "basilinna OR hylocharis leucotis hastissue:1 country:Mexico" ; Times: 2
+	Query: "34814" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 3
+	Query: "Euptilotis neoxenus hastissue:1 country:Mexico" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "iowa Stuart" ; Times: 1
+	Query: "Thryomanes AND Guadalupe" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1930" ; Times: 1
+	Query: "trogon mexicanus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Thryomanes AND Clemente Island AND 1915" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 5
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "genus:Cacicus hastissue:1" ; Times: 1
+	Query: "Pandion AND Clemente Island" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 134 (out of 1584 download events in this period)
+Total number of records downloaded: 24920
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: El Salvador ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 2
+	Country: United States ; Times: 108
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 7
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 3
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 6
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 4
+	Date: 2020-01-21 ; Times: 7
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-25 ; Times: 17
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 9
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-17 ; Times: 4
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-12 ; Times: 10
+	Date: 2020-01-13 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "psaltriparus minimus hastissue:1 country:Mexico" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "basilinna OR hylocharis leucotis hastissue:1 country:Mexico" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus hastissue:1" ; Times: 1
+	Query: "Diphylla ecaudata" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Turdus assimilis hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1990 hastissue:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Peucedramus taeniatus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Ptilogonys OR Ptiliogonys cinereus hastissue:1 country:Mexico" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Onychomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "trogon mexicanus hastissue:1 country:Mexico" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "canis lupus baileyi" ; Times: 2
+	Query: "Mycteria americana" ; Times: 1
+	Query: "tamias baja" ; Times: 2
+	Query: "Euphonia elegantissima hastissue:1 country:Mexico" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Chiapas&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "sitta carolinensis hastissue:1 country:Mexico" ; Times: 1
+	Query: "Vireo plumbeus hastissue:1 country:Mexico" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Didelphidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "family:Mustelidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Loxia curvirostra hastissue:1 country:Mexico" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "selasphorus platycercus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Vireo huttoni hastissue:1 country:Mexico" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "ateles geoffroyi el salvador" ; Times: 2
+	Query: "leptotila verreauxi hastissue:1 country:Mexico" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Troglodytes aedon hastissue:1 country:Mexico" ; Times: 1
+	Query: "Lepidocolaptes leucogaster hastissue:1 country:Mexico" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "Myotis californicus" ; Times: 1
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "centurio senex basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "melanerpes formicivorus hastissue:1 country:Mexico" ; Times: 1
+	Query: "baeolophus OR parus wollweberi hastissue:1 country:Mexico" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "Lepidocolaptes affinis hastissue:1 country:Mexico" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Oaxaca&#34; hastissue:1" ; Times: 1
+	Query: "neoxenus hastissue:1 country:Mexico" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "genus:Oryzomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "genus:Liomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "amazilia beryllina hastissue:1 country:Mexico" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "specificepithet:californicus genus:Microtus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus family:vespertilionidae hastissue:1" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 1988 hastissue:1" ; Times: 1
+	Query: "columba OR patagioenas fasciata hastissue:1 country:Mexico" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "certhia americana hastissue:1 country:Mexico" ; Times: 1
+	Query: "family:Dasypodidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "parus OR poecile sclateri hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:mammalia county:&#34;benton&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Cardellina OR Ergaticus versicolor hastissue:1 country:Mexico" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Urocyon hastissue:1" ; Times: 1
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+
+
+End of report.
