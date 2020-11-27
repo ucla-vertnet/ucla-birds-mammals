@@ -1,0 +1,339 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 3145
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 35
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 8
+	Country: United States ; Times: 152
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-24 ; Times: 17
+	Date: 2020-02-03 ; Times: 12
+	Date: 2020-02-26 ; Times: 19
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 8
+	Date: 2020-02-21 ; Times: 7
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 9
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 8
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-11 ; Times: 7
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 11
+	Date: 2020-02-12 ; Times: 15
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 14
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 4
+	Date: 2020-02-02 ; Times: 10
+	Date: 2020-02-25 ; Times: 6
+	Date: 2020-02-27 ; Times: 8
+	Date: 2020-02-06 ; Times: 11
+	Date: 2020-02-07 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Synthliboramphus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "terraenovae specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:a. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "oceanodroma hornbyi" ; Times: 2
+	Query: "puffinus pacificus hastissue:1" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "vntype:specimen genus:Potos (body)" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "larus glaucoides hastissue:1" ; Times: 3
+	Query: "Pipilo erythrophthalmus magnirostris" ; Times: 1
+	Query: "stateprovince:&#34;CA&#34;" ; Times: 1
+	Query: "Vultures" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "onychorhynchus mexicanus" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus)" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "vntype:specimen genus:Callipepla institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "genus:Melidora hastissue:1" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Peromyscus californicus vntype:specimen (los angeles) hastissue:1" ; Times: 1
+	Query: "UCLA Cathartidae" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UCLA" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:petechia genus:dendroica institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe) AND (NOT aleuticus NOT monocerata)" ; Times: 1
+	Query: "institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "Sitta carolinensis lagunae" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UCLA" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "specificepithet:leschenaulti genus:Enicurus hastissue:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 7
+	Query: "specificepithet:obscurus genus:hemignathus" ; Times: 3
+	Query: "specificepithet:phoenicotis genus:chlorochrysa hastissue:1" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "ateles geoffroyi el salvador" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen institutioncode:UCLA" ; Times: 1
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:a. walker" ; Times: 1
+	Query: "genus:Buteogallus hastissue:1" ; Times: 2
+	Query: "26386" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;CA&#34;" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 5
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Polioptila margaritae vntype:specimen" ; Times: 1
+	Query: "specificepithet:principalis genus:Campephilus hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:sherwood" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:petechia genus:dendroica stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "tylomys" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae locality:Guadalupe country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "institutioncode:ucla" ; Times: 1
+	Query: "Tigrisoma mexicanum" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 2
+	Query: "vntype:specimen family:Sturnidae institutioncode:UCLA" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "cardinalis townsendi" ; Times: 4
+	Query: "genus:kerodon" ; Times: 2
+	Query: "catalognumber:12577 institutioncode:UCLA" ; Times: 1
+	Query: "Mustela erminea haidarum" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:UCLA" ; Times: 1
+	Query: "nyctomys" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "casmerodius albus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus)" ; Times: 1
+	Query: "stateprovince:&#34;AZ&#34;" ; Times: 1
+	Query: "UCLA-11337" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "specificepithet:latrans genus:canis county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "homo sapiens" ; Times: 6
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:29154 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus" ; Times: 1
+	Query: "specificepithet:paradisi genus:Terpsiphone hastissue:1" ; Times: 1
+	Query: "Hemignathus chloris" ; Times: 7
+	Query: "vntype:specimen genus:Callipepla stateprovince:&#34;California&#34; institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "Polioptila nelsoni vntype:specimen country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Vireo huttoni riverside" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "odobenus rosmarus ucla" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;CA&#34; institutioncode:UCLA" ; Times: 1
+	Query: "bassariscus sumichrasti hastissue:1" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 3
+	Query: "institutioncode:UCLA" ; Times: 3
+	Query: "specificepithet:swainsoni genus:Buteo country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 2
+	Query: "vntype:specimen class:aves recordedby:A. Walker year &gt;= 1890 year &lt;= 1911" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "genus:junco county:&#34;Pierce&#34; stateprovince:&#34;Washington&#34; month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "buteo plagiatus year &gt;= 1950 year &lt;= 2020 hastissue:1" ; Times: 3
+	Query: "51716" ; Times: 1
+	Query: "specificepithet:hottentotus genus:dicrurus hastissue:1" ; Times: 1
+	Query: "dendroica kirtlandii vntype:specimen" ; Times: 2
+	Query: "glaucomys californicus" ; Times: 3
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1930" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Sherwood" ; Times: 2
+	Query: "specificepithet:petechia institutioncode:UCLA" ; Times: 2
+	Query: "larus thayeri hastissue:1" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "specificepithet:marmoratus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1888 year &lt;= 1910" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "genus:Aplodontia county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 4
+	Query: "hylophilus pallidipectus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1023 download events in this period)
+Total number of records downloaded: 14688
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 71
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-02 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-20 ; Times: 5
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-13 ; Times: 5
+	Date: 2020-02-12 ; Times: 5
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 6
+	Date: 2020-02-18 ; Times: 6
+	Date: 2020-02-24 ; Times: 5
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-06 ; Times: 7
+	Date: 2020-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicaudus genus:microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "terraenovae specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 3
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "specificepithet:americana genus:martes stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:lagopus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Grus canadensis" ; Times: 1
+	Query: "specificepithet:glacialis genus:Fulmarus family:Procellariidae class:Aves stateprovince:&#34;Alaska&#34; hastissue:1" ; Times: 1
+	Query: "genus:galea" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "drummondii specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Fratercula family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "specificepithet:petechia genus:dendroica institutioncode:UCLA" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sorex cinereus" ; Times: 1
+	Query: "vntype:specimen specificepithet:arcticus genus:Picoides hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen specificepithet:lomvia genus:Uria family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "Myotis melanorhinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Aplodontia hastissue:1" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe country:&#34;Mexico&#34; (hypoleucus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "specificepithet:petechia stateprovince:&#34;CA&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Aethia family:Alcidae class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:petechia genus:dendroica stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "genus:Vulpes (velox) hastissue:1" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "mammals nayarit" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "genus:kerodon" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "fontigenus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "vntype:specimen genus:Callipepla stateprovince:&#34;California&#34; institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:formicivorus genus:melanerpes stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridactyla genus:Rissa family:Laridae order:Charadriiformes class:Aves stateprovince:&#34;Alaska&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Pteronotus quadridens" ; Times: 1
+	Query: "enixus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "genus:Geococcyx country:&#34;Mexico&#34;" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "glaucomys californicus" ; Times: 1
+	Query: "insperatus specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "genus:microcavia" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "specificepithet:petechia institutioncode:UCLA" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Macrotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
