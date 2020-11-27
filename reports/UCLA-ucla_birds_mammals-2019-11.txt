@@ -1,0 +1,385 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 592
+Number of records retrieved in searches: 6038
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: Denmark ; Times: 70
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 465
+	Country: Paraguay ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 66
+	Date: 2019-11-18 ; Times: 8
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 46
+	Date: 2019-11-14 ; Times: 73
+	Date: 2019-11-17 ; Times: 9
+	Date: 2019-11-16 ; Times: 38
+	Date: 2019-11-11 ; Times: 22
+	Date: 2019-11-10 ; Times: 9
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 14
+	Date: 2019-11-08 ; Times: 42
+	Date: 2019-11-27 ; Times: 7
+	Date: 2019-11-28 ; Times: 4
+	Date: 2019-11-20 ; Times: 14
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 15
+	Date: 2019-11-23 ; Times: 3
+	Date: 2019-11-25 ; Times: 5
+	Date: 2019-11-26 ; Times: 5
+	Date: 2019-11-09 ; Times: 23
+	Date: 2019-11-06 ; Times: 30
+	Date: 2019-11-07 ; Times: 61
+	Date: 2019-11-04 ; Times: 21
+	Date: 2019-11-05 ; Times: 24
+	Date: 2019-11-02 ; Times: 6
+	Date: 2019-11-03 ; Times: 21
+	Date: 2019-11-01 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "UCLA-8022" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell AND 1910" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "UCLA-Dickey 21851" ; Times: 2
+	Query: "genus:Rallus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "UCLA 19911" ; Times: 1
+	Query: "specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus county:&#34;San Diego&#34; institutioncode:UCLA" ; Times: 1
+	Query: "stateprovince:&#34;NE&#34;" ; Times: 1
+	Query: "Polioptila californica californica 2016" ; Times: 4
+	Query: "Polioptila californica californica 2015" ; Times: 4
+	Query: "family:Columbidae year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Sechrist NOT Stephens" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:California county:San Diego" ; Times: 124
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1918" ; Times: 1
+	Query: "genus:cistothorus hastissue:1" ; Times: 4
+	Query: "junco vulcani" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913" ; Times: 4
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1915" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "18819" ; Times: 2
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "Molothrus ater obscurus county:San Diego" ; Times: 2
+	Query: "31201" ; Times: 1
+	Query: "family:Corvidae year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:penicillatus genus:perognathus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 3
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "Molothrus ater obscurus mappable:1 county:San Diego" ; Times: 6
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "toxostoma rubricatum" ; Times: 1
+	Query: "Sitta pygmaea pinos" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus hastissue:1" ; Times: 2
+	Query: "specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "Nasua narica" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "Sciurus richmondi" ; Times: 1
+	Query: "Ototylomys phyllotis" ; Times: 1
+	Query: "specificepithet:uropygialis genus:Cacicus hastissue:1" ; Times: 1
+	Query: "Peromyscus stirtoni" ; Times: 1
+	Query: "Andinomys edax" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT Stephens" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 1
+	Query: "Calidris canutus rufa 2016" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 12
+	Query: "dipodomys merriami parvus" ; Times: 4
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lamprolaima hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Dasyprocta punctata" ; Times: 6
+	Query: "Rheomys" ; Times: 1
+	Query: "chrotopterus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "Strix occidentalis caurina 2016" ; Times: 3
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34; recordedby:peet" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "24573" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 4
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Lynx canadensis 2011" ; Times: 4
+	Query: "Strix occidentalis lucida 2016" ; Times: 3
+	Query: "Strix occidentalis lucida 2015" ; Times: 3
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34; recordedby:Pierce" ; Times: 2
+	Query: "25328" ; Times: 1
+	Query: "Calidris canutus rufa 2015" ; Times: 5
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;alaska&#34; hastissue:1" ; Times: 1
+	Query: "Vireo bellii pusillus mappable:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 4
+	Query: "20532" ; Times: 2
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Chasiempis sclateri" ; Times: 5
+	Query: "19197" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "genus:Rallus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "bensoni vntype:specimen class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rattus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey" ; Times: 1
+	Query: "Strix occidentalis lucida 1989" ; Times: 3
+	Query: "genus:odontophorus" ; Times: 1
+	Query: "Peromyscus ochraventer" ; Times: 1
+	Query: "Dipodomys ingens hastissue:1" ; Times: 1
+	Query: "Orthogeomys grandis" ; Times: 1
+	Query: "Eremophila alpestris strigata 2016" ; Times: 4
+	Query: "Eremophila alpestris strigata 2015" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Oxymycterus paramensis" ; Times: 1
+	Query: "2063 geothlypis" ; Times: 1
+	Query: "Cepphus grylle US" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem" ; Times: 2
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Dipodomys ingens vntype:specimen hastissue:1" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "UCLA-Dickey Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:celata stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Lampornis country:&#34;Costa Rica&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Washington&#34; county:&#34;King&#34;" ; Times: 1
+	Query: "Guiraca caerulea hasmass:1" ; Times: 1
+	Query: "genus:glaucomys county:&#34;riverside&#34;" ; Times: 1
+	Query: "Aphelocoma coerulescens 2015" ; Times: 6
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UCLA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "genus:Mustela stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Rossem NOT Huey NOT Stephens" ; Times: 3
+	Query: "genus:Corvus year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "raza island" ; Times: 1
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Aphelocoma coerulescens 1977" ; Times: 6
+	Query: "genus:Glaucomys county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "genus:Mus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "skeletons birds" ; Times: 1
+	Query: "Akodon varius" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1950" ; Times: 1
+	Query: "specificepithet:vicinior genus:Vireo stateprovince:&#34;Baja California&#34;" ; Times: 1
+	Query: "Molothrus ater obscurus stateprovince:california county:San Diego" ; Times: 20
+	Query: "10918" ; Times: 1
+	Query: "Aphelocoma coerulescens 1989" ; Times: 6
+	Query: "specificepithet:spinatus genus:perognathus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Neotomys ebriosus" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND Howell" ; Times: 1
+	Query: "Galea musteloides" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Rossem" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Aphelocoma coerulescens 1984" ; Times: 6
+	Query: "Aphelocoma coerulescens 1985" ; Times: 6
+	Query: "35676" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Van Rossem" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Huey NOT Stephens" ; Times: 2
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Parula nigrilora sennett" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:loyca hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Stephens" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "specificepithet:oregoni genus:Microtus hastissue:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1929" ; Times: 1
+	Query: "Coendou mexicanus" ; Times: 2
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1910 NOT Osburn" ; Times: 1
+	Query: "geothlypis modesta" ; Times: 1
+	Query: "Parula nigrilora" ; Times: 1
+	Query: "canis latrans holotype" ; Times: 1
+	Query: "Aphelocoma coerulescens 1990" ; Times: 6
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "genus:Passer year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 5
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Polioptila californica californica 1985" ; Times: 4
+	Query: "Thamnistes" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 NOT Huey NOT 1913 NOT Sechrist NOT Stephens" ; Times: 1
+	Query: "Polioptila californica californica 1982" ; Times: 4
+	Query: "Psaltriparus minimus Washington Pierce County" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "institutioncode:UCLA" ; Times: 6
+	Query: "UCLA-Dickey 22808" ; Times: 3
+	Query: "class:aves locality:newport news" ; Times: 1
+	Query: "class:aves recordnumber:12070" ; Times: 1
+	Query: "weight specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "graciae family:Parulidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Rossem NOT Stephens" ; Times: 1
+	Query: "toxostoma candidum" ; Times: 1
+	Query: "Octodontomys gliroides" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1934" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:UCLA" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Polioptila californica californica 1983" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 NOT Stephens" ; Times: 2
+	Query: "Molothrus ater obscurus stateprovince:california county:san diego" ; Times: 2
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "Strix occidentalis caurina 2015" ; Times: 3
+	Query: "Marmota caligata" ; Times: 3
+	Query: "vntype:specimen specificepithet:caligata genus:Marmota stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Vireo gilvus brewsteri" ; Times: 1
+	Query: "tristis jewetti" ; Times: 1
+	Query: "19720" ; Times: 4
+	Query: "UCLA-Dickey aphelocoma californica" ; Times: 2
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Howell" ; Times: 3
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1942" ; Times: 1
+	Query: "specificepithet: gutturalis genus:Habia" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1914 AND Huey" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Falco sparverius AND Guadalupe" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia hastissue:1" ; Times: 2
+	Query: "Abrocoma cinerea" ; Times: 4
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 2
+	Query: "family:Cricetidae year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "order:Rodentia year &gt;= 1959 year &lt;= 1964 institutioncode:UCLA" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1913 AND Dickey NOT Rossem NOT Huey NOT Stephens" ; Times: 1
+	Query: "Microsciurus alfari" ; Times: 1
+	Query: "cacicus uropygialis" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1367 download events in this period)
+Total number of records downloaded: 2040
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 51
+	Country: Peru ; Times: 2
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 9
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 5
+	Date: 2019-11-15 ; Times: 5
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-11 ; Times: 5
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Mephitis stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rheomys" ; Times: 2
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus county:&#34;San Diego&#34; institutioncode:UCLA" ; Times: 2
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34; recordedby:peet" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:skin institutioncode:UCLA basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "graciae family:Parulidae country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "weight specificepithet:albigularis genus:Laterallus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "genus:Pelecanoides hastissue:1" ; Times: 1
+	Query: "vireo vicinior" ; Times: 1
+	Query: "Marmota caligata" ; Times: 1
+	Query: "vntype:specimen specificepithet:caligata genus:Marmota stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "genus:Vulpes family:Canidae class:Mammalia stateprovince:&#34;Alaska&#34; NOT (lagopus) hastissue:1" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Vulpes family:Canidae class:Mammalia hastissue:1" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Spilogale stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+
+
+End of report.
