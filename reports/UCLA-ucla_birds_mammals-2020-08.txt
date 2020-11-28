@@ -1,0 +1,346 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1762
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Portugal ; Times: 27
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Peru ; Times: 6
+	Country: United States ; Times: 108
+	Country: Sweden ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: United Kingdom ; Times: 51
+	Country: Chile ; Times: 3
+	Country: United Arab Emirates ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 14
+	Date: 2020-08-29 ; Times: 6
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 3
+	Date: 2020-08-11 ; Times: 9
+	Date: 2020-08-10 ; Times: 33
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-19 ; Times: 5
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 10
+	Date: 2020-08-05 ; Times: 11
+	Date: 2020-08-06 ; Times: 9
+	Date: 2020-08-07 ; Times: 11
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-27 ; Times: 12
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 6
+	Date: 2020-08-22 ; Times: 8
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 62
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "genus:Cypseloides hastissue:1" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "genus:Polioptila locality:ventura" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "MUSTELA NIGRIPES" ; Times: 5
+	Query: "vntype:specimen specificepithet:cunicularia family:Strigidae AND (hypugaea) hastissue:1" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; castor" ; Times: 1
+	Query: "Amazona finschi California" ; Times: 4
+	Query: "specificepithet:occidentalis caurina genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "stateprovince:&#34;CA&#34;" ; Times: 1
+	Query: "Archilochus colubris hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "Amazona finschi" ; Times: 1
+	Query: "Riverside County ruber" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Ventura&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;mendocino&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34; preparations:skeleton" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Syrmaticus humiae" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "vntype:specimen specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "insignis specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus (san clemente) hastissue:1" ; Times: 1
+	Query: "specificepithet:alticola genus:perognathus county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "genus:Oxypogon" ; Times: 1
+	Query: "mappable:1 scientificname:Ramphastos sulfuratus" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "genus:Tamias specificepithet:merriami mappable:1 stateprovince:california" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "specificepithet:wagleri genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "Cardinalis cardinalis ws OR wingspan OR wing+span" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga finschi" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus leucogenys" ; Times: 1
+	Query: "family:Trochilidae institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "aphelocoma unicolor" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "specificepithet:montezuma genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga holochlora" ; Times: 1
+	Query: "specificepithet:occidentalis caurina genus:strix" ; Times: 2
+	Query: "Aegithalos glaucogularis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Santa Barbara&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Piranga leucoptera" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 4
+	Query: "Rynchops niger" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;ventura&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "passerculus sandwichensis atratus" ; Times: 3
+	Query: "mappable:1 scientificname:Mimus gilvus" ; Times: 1
+	Query: "Motacilla tschutschensis" ; Times: 1
+	Query: "Brotogeris versicolorus California" ; Times: 1
+	Query: "Brotogeris versicolorus vntype:specimen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 1
+	Query: "specificepithet:longimembris genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Apalis flavida" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura punctulata" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "Eumops auripendulus" ; Times: 2
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Pycnonotus xanthorrhous" ; Times: 1
+	Query: "specificepithet:inornatus genus:perognathus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCLA" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona albifrons" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila year &gt;= 1914 year &lt;= 1915 institutioncode:UCLA" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami stateprovince:california" ; Times: 2
+	Query: "25785" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Pygochelidon cyanoleuca patagonica" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "locality:kalevala stateprovince:&#34;manitoba&#34;" ; Times: 5
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Coale 1910" ; Times: 1
+	Query: "vntype:specimen catalognumber:14256 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:canorus genus:Cuculus hastissue:1" ; Times: 2
+	Query: "mustela nigripes" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "Pygochelidon and cyanoleuca and patagonica" ; Times: 4
+	Query: "mappable:1 scientificname:Pycnonotus cafer" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila year &gt;= 1914 year &lt;= 1914 institutioncode:UCLA" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "genus:Streptoprocne hastissue:1" ; Times: 1
+	Query: "Buteo jamaicensis harlani California" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "genus:Marmota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia hastissue:1" ; Times: 2
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "liomys irroratus texensis county:&#34;cameron&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Amazona viridigenalis California" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "Cypseloides cryptus" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:san clemente hastissue:1" ; Times: 1
+	Query: "Phainoptila melanoxantha" ; Times: 1
+	Query: "mappable:1 scientificname:Icterus pectoralis" ; Times: 1
+	Query: "&#34;condylura cristata&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "NM 3391" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes orix" ; Times: 1
+	Query: "specificepithet:uropygialis genus:Cacicus hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes axillaris" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "Calypte costae hastissue:1" ; Times: 2
+	Query: "genus:Pygochelidon" ; Times: 3
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus nigerrimus" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "genus:peromyscus locality:san clemente" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "passerculus sandwichensis anulus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Sciurus colliaei" ; Times: 1
+	Query: "mappable:1 scientificname:Ara macao" ; Times: 1
+	Query: "Eira barbara AND hastissue:1" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "Rallus Laguna" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;los angeles&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias hastypestatus:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;humboldt&#34; stateprovince:&#34;california&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 756 download events in this period)
+Total number of records downloaded: 45179
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: United States ; Times: 58
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 11
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-06 ; Times: 2
+	Date: 2020-08-10 ; Times: 9
+	Date: 2020-08-26 ; Times: 6
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "family:Trochilidae institutioncode:UCLA hastissue:1" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "vntype:specimen family:Furnariidae hastissue:1" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Amazona finschi" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:peromyscus locality:san clemente" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua hastissue:1" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "liomys irroratus texensis county:&#34;cameron&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:glaucomys county:&#34;San bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
