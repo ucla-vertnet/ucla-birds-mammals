@@ -1,0 +1,260 @@
+Report for Institution Code UCLA, Resource ucla_birds_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 149
+Number of records retrieved in searches: 1787
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 63
+	Country: Ireland ; Times: 6
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 22
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 2
+	Country: New Zealand ; Times: 4
+	Country: Ecuador ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 12
+	Date: 2020-07-20 ; Times: 5
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 6
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-04 ; Times: 6
+	Date: 2020-07-07 ; Times: 8
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 7
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 11
+	Date: 2020-07-31 ; Times: 9
+	Date: 2020-07-14 ; Times: 12
+	Date: 2020-07-17 ; Times: 7
+	Date: 2020-07-22 ; Times: 9
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 23
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:occipitalis genus:Chlorophonia locality:Matagalpa" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "specificepithet:quasiater genus:Microtus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "elminia longicauda" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:UCLA" ; Times: 1
+	Query: "Accipiter gentilis arizona hastissue:1" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "10347 aves" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "Urocyon AND Santa Rosa Island" ; Times: 1
+	Query: "Buteo harlani north dakota" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 2
+	Query: "catalognumber:16553" ; Times: 2
+	Query: "LM 2660" ; Times: 1
+	Query: "genus:Spilogale hastissue:1" ; Times: 6
+	Query: "35921" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "didelphis texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 7
+	Query: "river Chiriqui" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus hastissue:1" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 4
+	Query: "Costa Rica Volcan de Oso" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "Corvus cryptoleucus hastissue:1" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia hastissue:1" ; Times: 2
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 2
+	Query: "MAR 8559" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "campephilus principalis" ; Times: 8
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "specificepithet:vulcani genus:Junco hastissue:1" ; Times: 1
+	Query: "gavia AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+	Query: "MCZ 8975" ; Times: 2
+	Query: "buteo harlani california" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "specificepithet:naumanni genus:Turdus hastissue:1" ; Times: 1
+	Query: "institutioncode:ucla" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "7640 institutioncode:UCLA" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 4
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "adamsi" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:macroura genus:Mephitis hastissue:1" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "flavotectus" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Kern&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UCLA" ; Times: 2
+	Query: "16350" ; Times: 1
+	Query: "stateprovince:&#34;AZ&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus county:&#34;riverside&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Buteo jamaicensis harlani North Dakota" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Volcan (de Oso)" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "MCZ 57044" ; Times: 2
+	Query: "31031" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 940 download events in this period)
+Total number of records downloaded: 8260
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-28 ; Times: 7
+	Date: 2020-07-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UCLA" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "c order:chiroptera stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "genus:Dipodomys county:&#34;ventura&#34;" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:quasiater genus:Microtus" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "vntype:specimen genus:Conepatus hastissue:1" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus county:&#34;Kern&#34; stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+
+
+End of report.
